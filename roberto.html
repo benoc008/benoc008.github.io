@@ -10,6 +10,7 @@
 </head>
 <div id="my_dataviz"></div>
 <script>
+    //point generation
     function generateRandom(count) {
         let sum = 0;
         return Array.from({length: count}, () => {
@@ -18,7 +19,9 @@
             return num;
         }).map(x => x / sum);
     }
-
+</script>
+<script>
+    // visualization
     const rawX = generateRandom(30);
     const rawY = generateRandom(30);
 
