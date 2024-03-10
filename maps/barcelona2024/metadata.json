@@ -3,8 +3,12 @@
     "Morning_Ride.gpx",
     "Lunch_Ride.gpx"
   ],
-  "images": [
-    "https://benoc008.github.io/maps/barcelona2024/img/IMG_0624.jpg",
-    "https://benoc008.github.io/maps/barcelona2024/img/IMG_0630.jpg"
+  "images": [{
+    "gps": [41.4216,2.1192],
+    "url": "https://benoc008.github.io/maps/barcelona2024/img/IMG_0624.jpg"
+  }, {
+    "gps": [41.4422,2.1298],
+    "url": "https://benoc008.github.io/maps/barcelona2024/img/IMG_0630.jpg"
+  }
   ]
 }
