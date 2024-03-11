@@ -2,11 +2,12 @@
   "tripId": "day3",
   "gpxUrl": "Afternoon_Run.gpx",
   "images": [{
-      "gps": [41.4216,2.1192],
-      "url": "IMG_0624.jpg"
-    }, {
-      "gps": [41.4422,2.1298],
-      "url": "IMG_0630.jpg"
+        "gps": [41.4216,2.1192],
+        "url": "IMG_0624.jpg"
+      }, {
+        "gps": [41.4422,2.1298],
+        "url": "IMG_0630.jpg"
+      }
     ],
   "title": "Run around Barcelona 2024-03-03",
   "activity": "run",
