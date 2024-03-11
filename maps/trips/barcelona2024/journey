@@ -1,6 +1,6 @@
 {
   "title": "Barcelona trip 2024",
-  "tripIds": [],
+  "tripIds": ["day1","day2","day3"],
   "descriptionUrl": "tbd",
   "journalUrl": "tbd"
 }
