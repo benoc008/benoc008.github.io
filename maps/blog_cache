@@ -1,0 +1,114 @@
+{
+    "trips": [
+        {
+            "tripId": "zurichseeloop090324",
+            "gpxUrl": "Afternoon_Ride.gpx",
+            "images": [],
+            "title": "New bike day Zurichsee loop",
+            "activity": "ride",
+            "day": 0
+        },
+        {
+            "tripId": "day1",
+            "gpxUrl": "Lunch_Ride.gpx",
+            "images": [],
+            "title": "Lunch Ride in Barcelona 2024-03-01",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "barcelona2024"
+        },
+        {
+            "tripId": "day2",
+            "gpxUrl": "Morning_Ride.gpx",
+            "images": [],
+            "title": "Morning Ride in Barcelona 2024-03-02",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "barcelona2024"
+        },
+        {
+            "tripId": "day3",
+            "gpxUrl": "Afternoon_Run.gpx",
+            "images": [
+                {
+                    "gps": [
+                        41.4216,
+                        2.1192
+                    ],
+                    "url": "IMG_0624.jpg",
+                    "description": "In front of El Tibidabo, the big church with Jesus on top, checking on the city of Barcelona. Watch out what you do, he can see everything!"
+                },
+                {
+                    "gps": [
+                        41.4422,
+                        2.1298
+                    ],
+                    "url": "IMG_0630.jpg",
+                    "description": "Selfie on this little peak, around 430m above the sea level, with Barcelona in the background."
+                }
+            ],
+            "title": "Run around Barcelona 2024-03-03",
+            "activity": "run",
+            "day": 3,
+            "journeyId": "barcelona2024"
+        }
+    ],
+    "journeys": [
+        {
+            "title": "Barcelona trip 2024",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day3"
+            ],
+            "descriptionUrl": "tbd",
+            "journalUrl": "tbd",
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "gpxUrl": "Lunch_Ride.gpx",
+                    "images": [],
+                    "title": "Lunch Ride in Barcelona 2024-03-01",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "barcelona2024"
+                },
+                {
+                    "tripId": "day2",
+                    "gpxUrl": "Morning_Ride.gpx",
+                    "images": [],
+                    "title": "Morning Ride in Barcelona 2024-03-02",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "barcelona2024"
+                },
+                {
+                    "tripId": "day3",
+                    "gpxUrl": "Afternoon_Run.gpx",
+                    "images": [
+                        {
+                            "gps": [
+                                41.4216,
+                                2.1192
+                            ],
+                            "url": "IMG_0624.jpg",
+                            "description": "In front of El Tibidabo, the big church with Jesus on top, checking on the city of Barcelona. Watch out what you do, he can see everything!"
+                        },
+                        {
+                            "gps": [
+                                41.4422,
+                                2.1298
+                            ],
+                            "url": "IMG_0630.jpg",
+                            "description": "Selfie on this little peak, around 430m above the sea level, with Barcelona in the background."
+                        }
+                    ],
+                    "title": "Run around Barcelona 2024-03-03",
+                    "activity": "run",
+                    "day": 3,
+                    "journeyId": "barcelona2024"
+                }
+            ]
+        }
+    ]
+}
