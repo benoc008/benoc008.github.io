@@ -1,5 +1,8 @@
 ## Blog
 I've spent 3 beautiful days in and around Barcelona, full of cycling, running, good food, perfect weather and most surprisingly I even met someone really interesting and refreshing!
+
+![Me](maps/trips/barcelona2024/day3/img/IMG_0630.jpg)
+
 ### Intro
 Our Lord and Saviour, the one and only protector of the Holy Stock Price, the CEO has spoken to their moral employee and rewarded them with a free day off - the day that is technically an accounting mistake anyways, the Leap day. Well the one after that, making it a 3 day weekend for us.
 
