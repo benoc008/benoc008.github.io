@@ -2,6 +2,7 @@
     "trips": [
         {
             "tripId": "zurichseeloop090324",
+            "date": "2024-03-09",
             "gpxUrl": "Afternoon_Ride.gpx",
             "images": [],
             "title": "New bike day Zurichsee loop",
@@ -10,6 +11,7 @@
         },
         {
             "tripId": "day1",
+            "date": "2024-03-01",
             "gpxUrl": "Lunch_Ride.gpx",
             "images": [],
             "title": "Lunch Ride in Barcelona 2024-03-01",
@@ -19,6 +21,7 @@
         },
         {
             "tripId": "day2",
+            "date": "2024-03-02",
             "gpxUrl": "Morning_Ride.gpx",
             "images": [],
             "title": "Morning Ride in Barcelona 2024-03-02",
@@ -28,6 +31,7 @@
         },
         {
             "tripId": "day3",
+            "date": "2024-03-03",
             "gpxUrl": "Afternoon_Run.gpx",
             "images": [
                 {
@@ -66,6 +70,7 @@
             "trips": [
                 {
                     "tripId": "day1",
+                    "date": "2024-03-01",
                     "gpxUrl": "Lunch_Ride.gpx",
                     "images": [],
                     "title": "Lunch Ride in Barcelona 2024-03-01",
@@ -75,6 +80,7 @@
                 },
                 {
                     "tripId": "day2",
+                    "date": "2024-03-02",
                     "gpxUrl": "Morning_Ride.gpx",
                     "images": [],
                     "title": "Morning Ride in Barcelona 2024-03-02",
@@ -84,6 +90,7 @@
                 },
                 {
                     "tripId": "day3",
+                    "date": "2024-03-03",
                     "gpxUrl": "Afternoon_Run.gpx",
                     "images": [
                         {
