@@ -13,20 +13,35 @@
             "tripId": "day1",
             "date": "2024-03-01",
             "gpxUrl": "Lunch_Ride.gpx",
-            "images": [],
+            "images": [
+                {
+                    "gps": [
+                        41.2362,
+                        1.8147
+                    ],
+                    "url": "IMG_0574.jpg",
+                    "description": "Mandatory bike picture in Sitges, after lunch."
+                },
+                {
+                    "gps": [
+                        41.2588,
+                        1.9182
+                    ],
+                    "url": "IMG_0564.jpg",
+                    "description": "Beach view from a Mirador."
+                },
+                {
+                    "gps": [
+                        41.3779,
+                        1.8088
+                    ],
+                    "url": "IMG_0576.jpg",
+                    "description": "Snacking and flying through some empty roads."
+                }
+            ],
             "title": "Lunch Ride in Barcelona 2024-03-01",
             "activity": "ride",
             "day": 1,
-            "journeyId": "barcelona2024"
-        },
-        {
-            "tripId": "day2",
-            "date": "2024-03-02",
-            "gpxUrl": "Morning_Ride.gpx",
-            "images": [],
-            "title": "Morning Ride in Barcelona 2024-03-02",
-            "activity": "ride",
-            "day": 2,
             "journeyId": "barcelona2024"
         },
         {
@@ -55,6 +70,16 @@
             "activity": "run",
             "day": 3,
             "journeyId": "barcelona2024"
+        },
+        {
+            "tripId": "day2",
+            "date": "2024-03-02",
+            "gpxUrl": "Morning_Ride.gpx",
+            "images": [],
+            "title": "Morning Ride in Barcelona 2024-03-02",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "barcelona2024"
         }
     ],
     "journeys": [
@@ -72,20 +97,35 @@
                     "tripId": "day1",
                     "date": "2024-03-01",
                     "gpxUrl": "Lunch_Ride.gpx",
-                    "images": [],
+                    "images": [
+                        {
+                            "gps": [
+                                41.2362,
+                                1.8147
+                            ],
+                            "url": "IMG_0574.jpg",
+                            "description": "Mandatory bike picture in Sitges, after lunch."
+                        },
+                        {
+                            "gps": [
+                                41.2588,
+                                1.9182
+                            ],
+                            "url": "IMG_0564.jpg",
+                            "description": "Beach view from a Mirador."
+                        },
+                        {
+                            "gps": [
+                                41.3779,
+                                1.8088
+                            ],
+                            "url": "IMG_0576.jpg",
+                            "description": "Snacking and flying through some empty roads."
+                        }
+                    ],
                     "title": "Lunch Ride in Barcelona 2024-03-01",
                     "activity": "ride",
                     "day": 1,
-                    "journeyId": "barcelona2024"
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2024-03-02",
-                    "gpxUrl": "Morning_Ride.gpx",
-                    "images": [],
-                    "title": "Morning Ride in Barcelona 2024-03-02",
-                    "activity": "ride",
-                    "day": 2,
                     "journeyId": "barcelona2024"
                 },
                 {
@@ -113,6 +153,16 @@
                     "title": "Run around Barcelona 2024-03-03",
                     "activity": "run",
                     "day": 3,
+                    "journeyId": "barcelona2024"
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2024-03-02",
+                    "gpxUrl": "Morning_Ride.gpx",
+                    "images": [],
+                    "title": "Morning Ride in Barcelona 2024-03-02",
+                    "activity": "ride",
+                    "day": 2,
                     "journeyId": "barcelona2024"
                 }
             ]
