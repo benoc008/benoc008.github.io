@@ -2,7 +2,21 @@
   "tripId": "day1",
   "date": "2024-03-01",
   "gpxUrl": "Lunch_Ride.gpx",
-  "images": [],
+  "images": [
+    {
+        "gps": [41.2362,1.8147],
+        "url": "IMG_0574.jpg",
+        "description": "Mandatory bike picture in Sitges, after lunch."
+    }, {
+        "gps": [41.2588,1.9182],
+        "url": "IMG_0564.jpg",
+        "description": "Beach view from a Mirador."
+    }, {
+        "gps": [41.3779,1.8088],
+        "url": "IMG_0576.jpg",
+        "description": "Snacking and flying through some empty roads."
+      }
+  ],
   "title": "Lunch Ride in Barcelona 2024-03-01",
   "activity": "ride",
   "day": 1,
