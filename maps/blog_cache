@@ -10,6 +10,16 @@
             "day": 0
         },
         {
+            "tripId": "day2",
+            "date": "2024-03-02",
+            "gpxUrl": "Morning_Ride.gpx",
+            "images": [],
+            "title": "Morning Ride in Barcelona 2024-03-02",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "barcelona2024"
+        },
+        {
             "tripId": "day1",
             "date": "2024-03-01",
             "gpxUrl": "Lunch_Ride.gpx",
@@ -70,16 +80,6 @@
             "activity": "run",
             "day": 3,
             "journeyId": "barcelona2024"
-        },
-        {
-            "tripId": "day2",
-            "date": "2024-03-02",
-            "gpxUrl": "Morning_Ride.gpx",
-            "images": [],
-            "title": "Morning Ride in Barcelona 2024-03-02",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "barcelona2024"
         }
     ],
     "journeys": [
@@ -129,6 +129,16 @@
                     "journeyId": "barcelona2024"
                 },
                 {
+                    "tripId": "day2",
+                    "date": "2024-03-02",
+                    "gpxUrl": "Morning_Ride.gpx",
+                    "images": [],
+                    "title": "Morning Ride in Barcelona 2024-03-02",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "barcelona2024"
+                },
+                {
                     "tripId": "day3",
                     "date": "2024-03-03",
                     "gpxUrl": "Afternoon_Run.gpx",
@@ -153,16 +163,6 @@
                     "title": "Run around Barcelona 2024-03-03",
                     "activity": "run",
                     "day": 3,
-                    "journeyId": "barcelona2024"
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2024-03-02",
-                    "gpxUrl": "Morning_Ride.gpx",
-                    "images": [],
-                    "title": "Morning Ride in Barcelona 2024-03-02",
-                    "activity": "ride",
-                    "day": 2,
                     "journeyId": "barcelona2024"
                 }
             ]
