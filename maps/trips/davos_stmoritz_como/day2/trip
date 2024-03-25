@@ -1,12 +1,12 @@
 {
-  "tripId": "day3",
-  "date": "2023-09-11",
-  "gpxUrl": "como.gpx",
-  "compressedGpxUrl": "como_compressed.gpx",
+  "tripId": "day2",
+  "date": "2023-09-10",
+  "gpxUrl": "stmoritz_como",
+  "compressedGpxUrl": "stmoritz_como_compressed.gpx",
   "images": [],
-  "title": "Riding around lake Como",
+  "title": "Riding from St Moritz to the edge of lake Como",
   "activity": "ride",
-  "day": 3,
-  "journeyId": "davos_stmoritz_como"
+  "day": 2,
+  "journeyId": "davos_stmoritz_como",
   "training": true
 }

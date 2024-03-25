@@ -4,11 +4,15 @@
     "baar_zurich_run_240324",
     "zuri_velo_cup",
     "pumpkin_ride",
-    "ride_160923"
+    "ride_160923",
+    "ride_050923",
+    "ride_040923"
   ],
   "journeyIds": [
     "barcelona2024",
-    "hvar2023"
+    "hvar2023",
+    "davos_stmoritz_como",
+    'chamonix2023"
   ],
   "latestIds": [
     "baar_zurich_run_240324",
@@ -21,6 +25,7 @@
     "baar_zurich_run_240324",
     "zurichseeloop090324",
     "barcelona2024/day3",
-    "barcelona2024/"
+    "barcelona2024/",
+    "chamonix2023/day1"
   ]
 }

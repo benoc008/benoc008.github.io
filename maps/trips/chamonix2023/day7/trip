@@ -1,0 +1,12 @@
+{
+  "tripId": "day7",
+  "date": "2023-08-18",
+  "gpxUrl": "ride.gpx",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Chamonix - Beaufort",
+  "activity": "ride",
+  "day": 7,
+  "journeyId": "chamonix2023",
+  "training": true
+}

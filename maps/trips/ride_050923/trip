@@ -1,0 +1,11 @@
+{
+  "tripId": "ride_050923",
+  "date": "2023-09-05",
+  "gpxUrl": "commute",
+  "compressedGpxUrl": "commute_compressed.gpx",
+  "images": [],
+  "title": "Just a ride",
+  "activity": "ride",
+  "day": 0,
+  "training": true
+}

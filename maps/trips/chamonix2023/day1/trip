@@ -1,0 +1,12 @@
+{
+  "tripId": "day1",
+  "date": "2023-08-12",
+  "gpxUrl": "ride.gpx",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Zurich - Martigny",
+  "activity": "ride",
+  "day": 1,
+  "journeyId": "chamonix2023",
+  "training": true
+}

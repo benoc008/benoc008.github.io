@@ -1,12 +1,12 @@
 {
-  "tripId": "day3",
-  "date": "2023-09-11",
-  "gpxUrl": "como.gpx",
-  "compressedGpxUrl": "como_compressed.gpx",
+  "tripId": "day1",
+  "date": "2023-09-09",
+  "gpxUrl": "sargans_stmoritz.gpx",
+  "compressedGpxUrl": "sargans_stmoritz_compressed.gpx",
   "images": [],
-  "title": "Riding around lake Como",
+  "title": "Sargans to St. Moritz",
   "activity": "ride",
-  "day": 3,
-  "journeyId": "davos_stmoritz_como"
+  "day": 1,
+  "journeyId": "davos_stmoritz_como",
   "training": true
 }

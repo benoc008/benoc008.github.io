@@ -1,0 +1,12 @@
+{
+  "tripId": "day2",
+  "date": "2023-08-13",
+  "gpxUrl": "ride.gpx",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Martigny - Chamonix",
+  "activity": "ride",
+  "day": 2,
+  "journeyId": "chamonix2023",
+  "training": true
+}
