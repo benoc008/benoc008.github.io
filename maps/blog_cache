@@ -1,6 +1,70 @@
 {
     "trips": [
         {
+            "tripId": "baar_zurich_run_240324",
+            "date": "2024-03-24",
+            "gpxUrl": "baar_zurich_run.gpx",
+            "compressedGpxUrl": "baar_zurich_run_compressed.gpx",
+            "images": [],
+            "title": "Baar - Zurich run",
+            "activity": "run",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_160923",
+            "date": "2023-09-16",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride back from hike",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "zurichseeloop090324",
+            "date": "2024-03-09",
+            "gpxUrl": "Afternoon_Ride.gpx",
+            "images": [],
+            "title": "New bike day Zurichsee loop",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "zuri_velo_cup",
+            "date": "2023-10-07",
+            "gpxUrl": "zuri_velo_cup",
+            "compressedGpxUrl": "zuri_velo_cup_compressed.gpx",
+            "images": [],
+            "title": "Zuri velo cup",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "pumpkin_ride",
+            "date": "2023-10-01",
+            "gpxUrl": "pumpkin_ride",
+            "compressedGpxUrl": "pumpkin_ride_compressed.gpx",
+            "images": [],
+            "title": "Pumpkin ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "day2",
+            "date": "2024-03-02",
+            "gpxUrl": "Morning_Ride.gpx",
+            "images": [],
+            "title": "Morning Ride in Barcelona 2024-03-02",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "barcelona2024"
+        },
+        {
             "tripId": "day1",
             "date": "2024-03-01",
             "gpxUrl": "Lunch_Ride.gpx",
@@ -36,16 +100,6 @@
             "journeyId": "barcelona2024"
         },
         {
-            "tripId": "day2",
-            "date": "2024-03-02",
-            "gpxUrl": "Morning_Ride.gpx",
-            "images": [],
-            "title": "Morning Ride in Barcelona 2024-03-02",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "barcelona2024"
-        },
-        {
             "tripId": "day3",
             "date": "2024-03-03",
             "gpxUrl": "Afternoon_Run.gpx",
@@ -73,25 +127,28 @@
             "journeyId": "barcelona2024"
         },
         {
-            "tripId": "zurichseeloop090324",
-            "date": "2024-03-09",
-            "gpxUrl": "Afternoon_Ride.gpx",
+            "tripId": "day4",
+            "date": "2023-10-13",
+            "gpxUrl": "hvar_2.gpx",
+            "compressedGpxUrl": "hvar_2_compressed.gpx",
             "images": [],
-            "title": "New bike day Zurichsee loop",
+            "title": "2nd Ride in Hvar",
             "activity": "ride",
-            "day": 0,
+            "day": 4,
+            "journeyId": "hvar2023",
             "training": true
         },
         {
-            "tripId": "baar_zurich_run_240324",
-            "date": "2024-03-24",
-            "gpxUrl": "baar_zurich_run.gpx",
-            "compressedGpxUrl": "baar_zurich_run_compressed.gpx",
+            "tripId": "day1",
+            "date": "2023-10-13",
+            "gpxUrl": "hvar_1.gpx",
+            "compressedGpxUrl": "hvar_1_compressed.gpx",
             "images": [],
-            "title": "Baar - Zurich run",
-            "activity": "run",
-            "day": 0,
-            "training": true
+            "title": "Hvar ride 1",
+            "activity": "ride",
+            "day": 1,
+            "training": true,
+            "journeyId": "hvar2023"
         }
     ],
     "journeys": [
@@ -176,6 +233,39 @@
                     "activity": "run",
                     "day": 3,
                     "journeyId": "barcelona2024"
+                }
+            ]
+        },
+        {
+            "title": "Hvar Trip",
+            "tripIds": [
+                "day1",
+                "day4"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-10-13",
+                    "gpxUrl": "hvar_1.gpx",
+                    "compressedGpxUrl": "hvar_1_compressed.gpx",
+                    "images": [],
+                    "title": "Hvar ride 1",
+                    "activity": "ride",
+                    "day": 1,
+                    "training": true,
+                    "journeyId": "hvar2023"
+                },
+                {
+                    "tripId": "day4",
+                    "date": "2023-10-13",
+                    "gpxUrl": "hvar_2.gpx",
+                    "compressedGpxUrl": "hvar_2_compressed.gpx",
+                    "images": [],
+                    "title": "2nd Ride in Hvar",
+                    "activity": "ride",
+                    "day": 4,
+                    "journeyId": "hvar2023",
+                    "training": true
                 }
             ]
         }
