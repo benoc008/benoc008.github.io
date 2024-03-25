@@ -7,6 +7,6 @@
   "title": "Hvar ride 1",
   "activity": "ride",
   "day": 1,
-  "training": true
+  "training": true,
   "journeyId": "hvar2023"
 }
