@@ -1,0 +1,12 @@
+{
+  "tripId": "day1",
+  "date": "2023-10-13",
+  "gpxUrl": "hvar_1.gpx",
+  "compressedGpxUrl": "hvar_1_compressed.gpx",
+  "images": [],
+  "title": "Hvar ride 1",
+  "activity": "ride",
+  "day": 1,
+  "training": true
+  "journeyId": "hvar2023"
+}
