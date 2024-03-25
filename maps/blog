@@ -1,10 +1,14 @@
 {
   "tripIds": [
     "zurichseeloop090324",
+<<<<<<< HEAD
     "baar_zurich_run_240324",
     "zuri_velo_cup",
     "pumpkin_ride",
     'ride_160923"
+=======
+    "baar_zurich_run_240324"
+>>>>>>> 58bb23d20fdee06d98248e5039eadd7dbfde444b
   ],
   "journeyIds": [
     "barcelona2024",
