@@ -1,0 +1,11 @@
+{
+  "tripId": "ride_100623",
+  "date": "2023-06-10",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "A beautiful day of cycling",
+  "activity": "ride",
+  "day": 0,
+  "training": true
+}

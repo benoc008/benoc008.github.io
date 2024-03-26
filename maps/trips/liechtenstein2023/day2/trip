@@ -1,0 +1,12 @@
+{
+  "tripId": "day2",
+  "date": "2023-05-29",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Ride back from Liechtenstein",
+  "activity": "ride",
+  "day": 2,
+  "journeyId": "liechtenstein2023",
+  "training": true
+}

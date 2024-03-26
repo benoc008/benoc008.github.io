@@ -1,0 +1,11 @@
+{
+  "tripId": "ride_240523",
+  "date": "2023-06-24",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Bike to work day",
+  "activity": "ride",
+  "day": 0,
+  "training": true
+}

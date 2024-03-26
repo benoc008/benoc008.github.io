@@ -6,13 +6,29 @@
     "pumpkin_ride",
     "ride_160923",
     "ride_050923",
-    "ride_040923"
+    "ride_040923",
+    "ride_050823",
+    "ride_200723",
+    "ride_180723",
+    "ride_160723",
+    "ride_130723",
+    "ride_030723",
+    "ride_240623",
+    "ride_190623",
+    "ride_140623",
+    "ride_100623",
+    "ride_080623",
+    "ride_040623",
+    "ride_260523",
+    "ride_240523"
   ],
   "journeyIds": [
     "barcelona2024",
     "hvar2023",
     "davos_stmoritz_como",
-    "chamonix2023"
+    "chamonix2023",
+    "liechtenstein2023",
+    "rhein2023"
   ],
   "latestIds": [
     "baar_zurich_run_240324",

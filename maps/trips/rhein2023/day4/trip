@@ -1,0 +1,12 @@
+{
+  "tripId": "day4",
+  "date": "2023-05-21",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Ride into Strasbourg",
+  "activity": "ride",
+  "day": 4,
+  "journeyId": "rhein2023",
+  "training": true
+}

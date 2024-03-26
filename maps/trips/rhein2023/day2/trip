@@ -1,0 +1,12 @@
+{
+  "tripId": "day2",
+  "date": "2023-05-19",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Dornbirn - Waldshut",
+  "activity": "ride",
+  "day": 2,
+  "journeyId": "rhein2023",
+  "training": true
+}
