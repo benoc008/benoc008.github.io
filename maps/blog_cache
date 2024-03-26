@@ -1,12 +1,11 @@
 {
     "trips": [
         {
-            "tripId": "ride_160923",
-            "date": "2023-09-16",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
+            "tripId": "zurichseeloop090324",
+            "date": "2024-03-09",
+            "gpxUrl": "Afternoon_Ride.gpx",
             "images": [],
-            "title": "Ride back from hike",
+            "title": "New bike day Zurichsee loop",
             "activity": "ride",
             "day": 0,
             "training": true
@@ -23,33 +22,12 @@
             "training": true
         },
         {
-            "tripId": "ride_050923",
-            "date": "2023-09-05",
-            "gpxUrl": "commute",
-            "compressedGpxUrl": "commute_compressed.gpx",
+            "tripId": "ride_160923",
+            "date": "2023-09-16",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true
-        },
-        {
-            "tripId": "zurichseeloop090324",
-            "date": "2024-03-09",
-            "gpxUrl": "Afternoon_Ride.gpx",
-            "images": [],
-            "title": "New bike day Zurichsee loop",
-            "activity": "ride",
-            "day": 0,
-            "training": true
-        },
-        {
-            "tripId": "zuri_velo_cup",
-            "date": "2023-10-07",
-            "gpxUrl": "zuri_velo_cup",
-            "compressedGpxUrl": "zuri_velo_cup_compressed.gpx",
-            "images": [],
-            "title": "Zuri velo cup",
+            "title": "Ride back from hike",
             "activity": "ride",
             "day": 0,
             "training": true
@@ -77,14 +55,322 @@
             "training": true
         },
         {
-            "tripId": "day3",
-            "date": "2023-09-11",
-            "gpxUrl": "como.gpx",
-            "compressedGpxUrl": "como_compressed.gpx",
+            "tripId": "ride_200723",
+            "date": "2023-07-20",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
-            "title": "Riding around lake Como",
+            "title": "Juckerfarm ride with Mom",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "zuri_velo_cup",
+            "date": "2023-10-07",
+            "gpxUrl": "zuri_velo_cup",
+            "compressedGpxUrl": "zuri_velo_cup_compressed.gpx",
+            "images": [],
+            "title": "Zuri velo cup",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_180723",
+            "date": "2023-07-18",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Evening commute",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_050923",
+            "date": "2023-09-05",
+            "gpxUrl": "commute",
+            "compressedGpxUrl": "commute_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_160723",
+            "date": "2023-07-16",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "333 Attempt",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_240623",
+            "date": "2023-06-24",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Chilling while waiting for La Reine finishers",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_050823",
+            "date": "2023-08-05",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Drunk cycling in the rain",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_130723",
+            "date": "2023-07-13",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_040623",
+            "date": "2023-06-04",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Cyclotour du Léman",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_080623",
+            "date": "2023-06-08",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_030723",
+            "date": "2023-07-03",
+            "gpxUrl": "ride_compressed",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Gravel ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_240523",
+            "date": "2023-06-24",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Bike to work day",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_100623",
+            "date": "2023-06-10",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "A beautiful day of cycling",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_140623",
+            "date": "2023-06-14",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_260523",
+            "date": "2023-06-26",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "ride_190623",
+            "date": "2023-06-19",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Evening commute",
+            "activity": "ride",
+            "day": 0,
+            "training": true
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-05-28",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride to Liechtenstein",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "liechtenstein2023",
+            "training": true
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-05-29",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride back from Liechtenstein",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "liechtenstein2023",
+            "training": true
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-05-18",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Zurichsee - Dornbirn",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "rhein2023",
+            "training": true
+        },
+        {
+            "tripId": "day3",
+            "date": "2023-05-20",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Waldshut - Strasbourg",
             "activity": "ride",
             "day": 3,
+            "journeyId": "rhein2023",
+            "training": true
+        },
+        {
+            "tripId": "day4",
+            "date": "2023-05-21",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride into Strasbourg",
+            "activity": "ride",
+            "day": 4,
+            "journeyId": "rhein2023",
+            "training": true
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-05-19",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Dornbirn - Waldshut",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "rhein2023",
+            "training": true
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-08-12",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Zurich - Martigny",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "chamonix2023",
+            "training": true
+        },
+        {
+            "tripId": "day8",
+            "date": "2023-08-19",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Beaufort - Courmayeur",
+            "activity": "ride",
+            "day": 8,
+            "journeyId": "chamonix2023",
+            "training": true
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-08-13",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Martigny - Chamonix",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "chamonix2023",
+            "training": true
+        },
+        {
+            "tripId": "day7",
+            "date": "2023-08-18",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Chamonix - Beaufort",
+            "activity": "ride",
+            "day": 7,
+            "journeyId": "chamonix2023",
+            "training": true
+        },
+        {
+            "tripId": "day9",
+            "date": "2023-08-20",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Courmayeur - Martigny",
+            "activity": "ride",
+            "day": 9,
+            "journeyId": "chamonix2023",
+            "training": true
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-09-09",
+            "gpxUrl": "sargans_stmoritz.gpx",
+            "compressedGpxUrl": "sargans_stmoritz_compressed.gpx",
+            "images": [],
+            "title": "Sargans to St. Moritz",
+            "activity": "ride",
+            "day": 1,
             "journeyId": "davos_stmoritz_como",
             "training": true
         },
@@ -101,43 +387,40 @@
             "training": true
         },
         {
-            "tripId": "day1",
-            "date": "2023-09-09",
-            "gpxUrl": "sargans_stmoritz.gpx",
-            "compressedGpxUrl": "sargans_stmoritz_compressed.gpx",
+            "tripId": "day3",
+            "date": "2023-09-11",
+            "gpxUrl": "como.gpx",
+            "compressedGpxUrl": "como_compressed.gpx",
             "images": [],
-            "title": "Sargans to St. Moritz",
+            "title": "Riding around lake Como",
             "activity": "ride",
-            "day": 1,
+            "day": 3,
             "journeyId": "davos_stmoritz_como",
             "training": true
         },
         {
-            "tripId": "day3",
-            "date": "2024-03-03",
-            "gpxUrl": "Afternoon_Run.gpx",
-            "images": [
-                {
-                    "gps": [
-                        41.4216,
-                        2.1192
-                    ],
-                    "url": "IMG_0624.jpg",
-                    "description": "In front of El Tibidabo, the big church with Jesus on top, checking on the city of Barcelona. Watch out what you do, he can see everything!"
-                },
-                {
-                    "gps": [
-                        41.4422,
-                        2.1298
-                    ],
-                    "url": "IMG_0630.jpg",
-                    "description": "Selfie on this little peak, around 430m above the sea level, with Barcelona in the background."
-                }
-            ],
-            "title": "Run around Barcelona 2024-03-03",
-            "activity": "run",
-            "day": 3,
-            "journeyId": "barcelona2024"
+            "tripId": "day1",
+            "date": "2023-10-13",
+            "gpxUrl": "hvar_1.gpx",
+            "compressedGpxUrl": "hvar_1_compressed.gpx",
+            "images": [],
+            "title": "Hvar ride 1",
+            "activity": "ride",
+            "day": 1,
+            "training": true,
+            "journeyId": "hvar2023"
+        },
+        {
+            "tripId": "day4",
+            "date": "2023-10-13",
+            "gpxUrl": "hvar_2.gpx",
+            "compressedGpxUrl": "hvar_2_compressed.gpx",
+            "images": [],
+            "title": "2nd Ride in Hvar",
+            "activity": "ride",
+            "day": 4,
+            "journeyId": "hvar2023",
+            "training": true
         },
         {
             "tripId": "day2",
@@ -185,91 +468,198 @@
             "journeyId": "barcelona2024"
         },
         {
-            "tripId": "day2",
-            "date": "2023-08-13",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Martigny - Chamonix",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "chamonix2023",
-            "training": true
-        },
-        {
-            "tripId": "day9",
-            "date": "2023-08-20",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Courmayeur - Martigny",
-            "activity": "ride",
-            "day": 9,
-            "journeyId": "chamonix2023",
-            "training": true
-        },
-        {
-            "tripId": "day8",
-            "date": "2023-08-19",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Beaufort - Courmayeur",
-            "activity": "ride",
-            "day": 8,
-            "journeyId": "chamonix2023",
-            "training": true
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-08-12",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Zurich - Martigny",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "chamonix2023",
-            "training": true
-        },
-        {
-            "tripId": "day7",
-            "date": "2023-08-18",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Chamonix - Beaufort",
-            "activity": "ride",
-            "day": 7,
-            "journeyId": "chamonix2023",
-            "training": true
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-10-13",
-            "gpxUrl": "hvar_1.gpx",
-            "compressedGpxUrl": "hvar_1_compressed.gpx",
-            "images": [],
-            "title": "Hvar ride 1",
-            "activity": "ride",
-            "day": 1,
-            "training": true,
-            "journeyId": "hvar2023"
-        },
-        {
-            "tripId": "day4",
-            "date": "2023-10-13",
-            "gpxUrl": "hvar_2.gpx",
-            "compressedGpxUrl": "hvar_2_compressed.gpx",
-            "images": [],
-            "title": "2nd Ride in Hvar",
-            "activity": "ride",
-            "day": 4,
-            "journeyId": "hvar2023",
-            "training": true
+            "tripId": "day3",
+            "date": "2024-03-03",
+            "gpxUrl": "Afternoon_Run.gpx",
+            "images": [
+                {
+                    "gps": [
+                        41.4216,
+                        2.1192
+                    ],
+                    "url": "IMG_0624.jpg",
+                    "description": "In front of El Tibidabo, the big church with Jesus on top, checking on the city of Barcelona. Watch out what you do, he can see everything!"
+                },
+                {
+                    "gps": [
+                        41.4422,
+                        2.1298
+                    ],
+                    "url": "IMG_0630.jpg",
+                    "description": "Selfie on this little peak, around 430m above the sea level, with Barcelona in the background."
+                }
+            ],
+            "title": "Run around Barcelona 2024-03-03",
+            "activity": "run",
+            "day": 3,
+            "journeyId": "barcelona2024"
         }
     ],
     "journeys": [
+        {
+            "title": "Liechtenstein trip",
+            "tripIds": [
+                "day1",
+                "day2"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-05-28",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Ride to Liechtenstein",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "liechtenstein2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-05-29",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Ride back from Liechtenstein",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "liechtenstein2023",
+                    "training": true
+                }
+            ]
+        },
+        {
+            "title": "Rhein trip",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day3",
+                "day4"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-05-18",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Zurichsee - Dornbirn",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "rhein2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-05-19",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Dornbirn - Waldshut",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "rhein2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day3",
+                    "date": "2023-05-20",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Waldshut - Strasbourg",
+                    "activity": "ride",
+                    "day": 3,
+                    "journeyId": "rhein2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day4",
+                    "date": "2023-05-21",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Ride into Strasbourg",
+                    "activity": "ride",
+                    "day": 4,
+                    "journeyId": "rhein2023",
+                    "training": true
+                }
+            ]
+        },
+        {
+            "title": "Chamonix trip",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day7",
+                "day8",
+                "day9"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-08-12",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Zurich - Martigny",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "chamonix2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-08-13",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Martigny - Chamonix",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "chamonix2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day7",
+                    "date": "2023-08-18",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Chamonix - Beaufort",
+                    "activity": "ride",
+                    "day": 7,
+                    "journeyId": "chamonix2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day8",
+                    "date": "2023-08-19",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Beaufort - Courmayeur",
+                    "activity": "ride",
+                    "day": 8,
+                    "journeyId": "chamonix2023",
+                    "training": true
+                },
+                {
+                    "tripId": "day9",
+                    "date": "2023-08-20",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Courmayeur - Martigny",
+                    "activity": "ride",
+                    "day": 9,
+                    "journeyId": "chamonix2023",
+                    "training": true
+                }
+            ]
+        },
         {
             "title": "Hvar Trip",
             "tripIds": [
@@ -312,6 +702,39 @@
                     "activity": "ride",
                     "day": 3,
                     "journeyId": "davos_stmoritz_como",
+                    "training": true
+                }
+            ]
+        },
+        {
+            "title": "Hvar Trip",
+            "tripIds": [
+                "day1",
+                "day4"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-10-13",
+                    "gpxUrl": "hvar_1.gpx",
+                    "compressedGpxUrl": "hvar_1_compressed.gpx",
+                    "images": [],
+                    "title": "Hvar ride 1",
+                    "activity": "ride",
+                    "day": 1,
+                    "training": true,
+                    "journeyId": "hvar2023"
+                },
+                {
+                    "tripId": "day4",
+                    "date": "2023-10-13",
+                    "gpxUrl": "hvar_2.gpx",
+                    "compressedGpxUrl": "hvar_2_compressed.gpx",
+                    "images": [],
+                    "title": "2nd Ride in Hvar",
+                    "activity": "ride",
+                    "day": 4,
+                    "journeyId": "hvar2023",
                     "training": true
                 }
             ]
@@ -397,111 +820,6 @@
                     "activity": "run",
                     "day": 3,
                     "journeyId": "barcelona2024"
-                }
-            ]
-        },
-        {
-            "title": "Chamonix trip",
-            "tripIds": [
-                "day1",
-                "day2",
-                "day7",
-                "day8",
-                "day9"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-08-12",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Zurich - Martigny",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "chamonix2023",
-                    "training": true
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2023-08-13",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Martigny - Chamonix",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "chamonix2023",
-                    "training": true
-                },
-                {
-                    "tripId": "day7",
-                    "date": "2023-08-18",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Chamonix - Beaufort",
-                    "activity": "ride",
-                    "day": 7,
-                    "journeyId": "chamonix2023",
-                    "training": true
-                },
-                {
-                    "tripId": "day8",
-                    "date": "2023-08-19",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Beaufort - Courmayeur",
-                    "activity": "ride",
-                    "day": 8,
-                    "journeyId": "chamonix2023",
-                    "training": true
-                },
-                {
-                    "tripId": "day9",
-                    "date": "2023-08-20",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Courmayeur - Martigny",
-                    "activity": "ride",
-                    "day": 9,
-                    "journeyId": "chamonix2023",
-                    "training": true
-                }
-            ]
-        },
-        {
-            "title": "Hvar Trip",
-            "tripIds": [
-                "day1",
-                "day4"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-10-13",
-                    "gpxUrl": "hvar_1.gpx",
-                    "compressedGpxUrl": "hvar_1_compressed.gpx",
-                    "images": [],
-                    "title": "Hvar ride 1",
-                    "activity": "ride",
-                    "day": 1,
-                    "training": true,
-                    "journeyId": "hvar2023"
-                },
-                {
-                    "tripId": "day4",
-                    "date": "2023-10-13",
-                    "gpxUrl": "hvar_2.gpx",
-                    "compressedGpxUrl": "hvar_2_compressed.gpx",
-                    "images": [],
-                    "title": "2nd Ride in Hvar",
-                    "activity": "ride",
-                    "day": 4,
-                    "journeyId": "hvar2023",
-                    "training": true
                 }
             ]
         }
