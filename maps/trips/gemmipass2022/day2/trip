@@ -1,0 +1,12 @@
+{
+  "tripId": "day2",
+  "date": "2022-10-30",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Mountain scooter :D",
+  "activity": "ride",
+  "day": 2,
+  "journeyId": "gemmipass2022",
+  "training": true
+}

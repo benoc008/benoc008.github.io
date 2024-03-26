@@ -1,0 +1,12 @@
+{
+  "tripId": "day2",
+  "date": "2023-07-31",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Biasca - Chiasso",
+  "activity": "ride",
+  "day": 2,
+  "journeyId": "gotthard2022",
+  "training": true
+}

@@ -1,0 +1,12 @@
+{
+  "tripId": "day1",
+  "date": "2023-04-07",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "St. Gallen - Freienbach",
+  "activity": "ride",
+  "day": 1,
+  "journeyId": "easter2023",
+  "training": true
+}

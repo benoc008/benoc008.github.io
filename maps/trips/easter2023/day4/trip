@@ -1,0 +1,12 @@
+{
+  "tripId": "day4",
+  "date": "2023-04-10",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Biel - Basel",
+  "activity": "ride",
+  "day": 4,
+  "journeyId": "easter2023",
+  "training": true
+}

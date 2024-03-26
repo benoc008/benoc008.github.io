@@ -1,0 +1,12 @@
+{
+  "tripId": "day8",
+  "date": "2023-07-23",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Lausanne vineyards",
+  "activity": "ride",
+  "day": 8,
+  "journeyId": "summer2022",
+  "training": true
+}

@@ -1,0 +1,12 @@
+{
+  "tripId": "day7",
+  "date": "2023-07-22",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Geneva - Lausanne",
+  "activity": "ride",
+  "day": 7,
+  "journeyId": "summer2022",
+  "training": true
+}

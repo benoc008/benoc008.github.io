@@ -1,0 +1,12 @@
+{
+  "tripId": "day1",
+  "date": "2023-07-30",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Gotthard Pass: Altdorf - Biasca",
+  "activity": "ride",
+  "day": 1,
+  "journeyId": "gotthard2022",
+  "training": true
+}

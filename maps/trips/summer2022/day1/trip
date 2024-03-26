@@ -1,0 +1,12 @@
+{
+  "tripId": "day1",
+  "date": "2023-07-16",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Freienbach - Horw",
+  "activity": "ride",
+  "day": 1,
+  "journeyId": "summer2022",
+  "training": true
+}

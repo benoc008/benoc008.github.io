@@ -1,0 +1,12 @@
+{
+  "tripId": "day2",
+  "date": "2023-04-08",
+  "gpxUrl": "ride",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [],
+  "title": "Freienbach - Malters",
+  "activity": "ride",
+  "day": 2,
+  "journeyId": "easter2023",
+  "training": true
+}
