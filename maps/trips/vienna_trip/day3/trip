@@ -1,0 +1,37 @@
+{
+  "tripId": "day3",
+  "date": "2024-03-30",
+  "gpxUrl": "ride.gpx",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [
+    {
+        "gps": [48.9086,12.6888],
+        "url": "IMG_0896.jpg",
+        "description": "Healed my broken bike."
+    },
+    {
+        "gps": [48.434,13.8736],
+        "url": "IMG_0906.jpg",
+        "description": "Hey!"
+    },
+    {
+        "gps": [48.845,12.8601],
+        "url": "IMG_0900.jpg",
+        "description": "The end of the road block, actually it started a few kms back."
+    },
+    {
+        "gps": [48.4255,13.9242],
+        "url": "IMG_0910.jpg",
+        "description": "The majestic Danube."
+    },
+    {
+        "gps": [48.4136,13.9547],
+        "url": "IMG_0911.jpg",
+        "description": "There is no way around this."
+    }
+  ],
+  "title": "Regensburg - Linz by the Danube",
+  "activity": "ride",
+  "day": 2,
+  "journeyId": "vienna_trip"
+}

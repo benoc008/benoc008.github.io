@@ -1,0 +1,38 @@
+{
+  "tripId": "day1",
+  "date": "2024-03-28",
+  "gpxUrl": "ride.gpx",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [
+    {
+        "gps": [47.9519,8.5026],
+        "url": "IMG_0837.jpg",
+        "description": "The source of the Danube."
+    },
+    {
+        "gps": [48.2502,9.7206],
+        "url": "IMG_0855.jpg",
+        "description": "Being happy after the crash, that my fingers are intact."
+    },
+    {
+        "gps": [48.089,9.1085],
+        "url": "IMG_0848.jpg",
+        "description": "Cute little Danube."
+    },
+    {
+        "gps": [48.0347,8.9424],
+        "url": "IMG_0847.jpg",
+        "description": "Gravel/dirt detour because of some road works."
+    },
+
+    {
+        "gps": [48.3953,9.9926],
+        "url": "IMG_0856.jpg",
+        "description": "Arriving to Ulm."
+    }
+  ],
+  "title": "Zurich - Ulm by the Danube",
+  "activity": "ride",
+  "day": 1,
+  "journeyId": "vienna_trip"
+}

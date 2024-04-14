@@ -1,0 +1,25 @@
+{
+  "tripId": "day4",
+  "date": "2024-03-31",
+  "gpxUrl": "ride.gpx",
+  "compressedGpxUrl": "ride_compressed.gpx",
+  "images": [
+    {
+        "gps": [48.2412,14.5145],
+        "url": "IMG_0932.jpg",
+        "description": "Wien only 200km!"
+    }, {
+        "gps": [48.1918,14.8181],
+        "url": "IMG_0933.jpg",
+        "description": "Closed bridge."
+    }, {
+        "gps": [48.1815,16.3843],
+        "url": "IMG_0941.jpg",
+        "description": "Arrived to the hotel! I was very happy if you can't tell! :D"
+    }
+  ],
+  "title": "Linz - Wien by the Danube",
+  "activity": "ride",
+  "day": 4,
+  "journeyId": "vienna_trip"
+}
