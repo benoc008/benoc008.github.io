@@ -31,7 +31,7 @@ Approaching the city I felt happier snd happier. The wind was still strong, but 
 
 But I finally made it to the hotel. My Mom was waiting for me there with a friend of hers. I was really happy! :slightly_smiling_face:
 
-![closed_bridge](maps/trips/vienna_trip/day4/img/IMG_0941.jpg)
+![arriving_to_wien](maps/trips/vienna_trip/day4/img/IMG_0941.jpg)
 
 Tired but satisfied, stinky but proud. I took a shower and we went to have some dinner. The next day some sightseeing and then back to Zürich with the night train. 
 What a journey! I will never forget it. 
