@@ -53,17 +53,14 @@
     "summer2022"
   ],
   "latestIds": [
-    "baar_zurich_run_240324",
-    "zurichseeloop090324",
-    "barcelona2024/day3",
-    "barcelona2024/day2",
-    "barcelona2024/day1"
+    "vienna_trip/day4",
+    "vienna_trip/day3",
+    "vienna_trip/day2",
+    "vienna_trip/day1",
+    "barcelona2024/day3"
   ],
   "highlightIds": [
-    "baar_zurich_run_240324",
-    "zurichseeloop090324",
-    "barcelona2024/day3",
-    "barcelona2024/",
-    "chamonix2023/day1"
+    "vienna_trip/"
+    "barcelona2024/"
   ]
 }

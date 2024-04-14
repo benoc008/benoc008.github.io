@@ -2,7 +2,21 @@
   "tripId": "day2",
   "date": "2024-03-02",
   "gpxUrl": "Morning_Ride.gpx",
-  "images": [],
+  "images": [
+   {
+        "gps": [41.4499,2.1588],
+        "url": "IMG_0587.jpg",
+        "description": "View to Barcelona."
+    }, {
+        "gps": [41.6951,2.1995],
+        "url": "IMG_0593.jpg",
+        "description": "Scenic climbs near Barcelona."
+    }, {
+        "gps": [41.8022,2.347],
+        "url": "IMG_0598.jpg",
+        "description": "Coll Formic."
+    },
+  ],
   "title": "Morning Ride in Barcelona 2024-03-02",
   "activity": "ride",
   "day": 2,
