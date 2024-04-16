@@ -3,7 +3,7 @@ I set my alarm to 5:30, even though I knew that I’ll still have to pack my bik
 
 As I was approaching Regensburg I finally started seeing some cyclists. Until this point I’ve only met a handful of old dudes, riding those heavily packed e-bikes with the paniers, as if they were taking their entire home with themselves. But here I’ve seen some other tourers and also people riding their regular lightweight racing bikes. I’ve even seen an elderly couple riding hand in hand, really cute!
 
-![the_fall](maps/trips/vienna_trip/day2/img/IMG_0855.jpg)
+![cute_couple](maps/trips/vienna_trip/day2/img/IMG_0874.jpg)
 
 
 I’ve arrived to Regensburg with plenty of daylight again and the hotel had a nice restaurant too, so I was not worried. I wasn’t that hungry yet actually (maybe eating gummy bears all day indeed helps) so after a quick shower I called my Mom and we were chatting while I was doing my laundry. And by doing the laundry I mean hand washing the sweaty, muddy, bloody cycling clothes with shower gel that I’ve been wearing for 2 days at this point. Previously I used to carry a little bottle of detergent (~1dl) but this time to save weight and most importantly space, I opted out of that. I had to carry many layers on this trip, so I was trying to be really conscious about the volume of my luggage. It all worked out fine in the end.
