@@ -374,7 +374,7 @@
             "training": true
         },
         {
-            "tripId": "run_180623",
+            "tripId": "aletsch2023",
             "date": "2023-06-18",
             "gpxUrl": "run",
             "compressedGpxUrl": "run_compressed.gpx",
