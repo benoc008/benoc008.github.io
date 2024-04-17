@@ -1,0 +1,11 @@
+{
+  "tripId": "wfl2023",
+  "date": "2023-05-07",
+  "gpxUrl": "run",
+  "compressedGpxUrl": "run_compressed.gpx",
+  "images": [],
+  "title": "Wings For Life 2023",
+  "activity": "run",
+  "day": 0,
+  "training": true
+}

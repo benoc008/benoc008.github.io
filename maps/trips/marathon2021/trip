@@ -1,0 +1,11 @@
+{
+  "tripId": "marathon2021",
+  "date": "2021-04-25",
+  "gpxUrl": "run",
+  "compressedGpxUrl": "run_compressed.gpx",
+  "images": [],
+  "title": "My first Marathon",
+  "activity": "run",
+  "day": 0,
+  "training": true
+}
