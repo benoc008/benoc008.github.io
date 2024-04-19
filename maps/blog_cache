@@ -249,7 +249,8 @@
             "date": "2023-09-29",
             "activity": "hike",
             "title": "Churfirsten",
-            "tripId": "hike_20230929"
+            "tripId": "hike_20230929",
+            "images": []
         },
         {
             "tripId": "ride_010722",
