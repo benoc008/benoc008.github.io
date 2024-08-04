@@ -15,7 +15,7 @@ Bence: haha i have no doubts :D See you tomorrow at 7:30"
 
 And that's how it happened, we started at 7:30, the sun was already up, we did a good pace and had breakfast in Winterthur in a cute little bakery.
 
-![steep_hill](maps/trips/ride_070424/img/IMG_1071.jpg)
+![steep_hill](maps/trips/ride_20240407/img/IMG_1071.jpg)
 
 We had to do a loop around and we crossed Winterthur once more. This is where we were getting a bit low on energy, so on the way out we stopped again for some sugar water and a Snickers. :sweat_smile:.
 I'm still fascinated how some sugars can always keep me going.
