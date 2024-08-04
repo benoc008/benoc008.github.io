@@ -1,0 +1,25 @@
+{"day":0,"stravaId":11164655067,"training":true,"gpxUrl":"original.gpx","compressedGpxUrl":"compressed.gpx","date":"2024-04-12","activity":"ride","images":[{
+        "gps": [32.6468,-16.905],
+        "url": "IMG_1161.jpg",
+        "description": "Sea to summit - start"
+    }, {
+        "gps": [32.7036,-16.8965],
+        "url": "IMG_1172.jpg",
+        "description": "I know this sign from Switzerland!"
+    },{
+        "gps": [32.713,-16.8877],
+        "url": "IMG_1174.jpg",
+        "description": "Little forest on the way"
+    },{
+        "gps": [32.7275,-16.9188],
+        "url": "IMG_1182.jpg",
+        "description": "Last stretch to the Observatory"
+    },{
+        "gps": [32.7356,-16.9287],
+        "url": "IMG_1188.jpg",
+        "description": "Pico Areeiro - summit"
+    },{
+        "gps": [32.6853,-16.9006],
+        "url": "IMG_1201.jpg",
+        "description": "Funchal from above"
+    }],"title":"Sea to Summit","elevation":0,"distance":68522,"tripId":"ride_20240412"}
