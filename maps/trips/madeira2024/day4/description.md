@@ -1,5 +1,5 @@
 ## Blog
-This is Monday, the 2nd day after my big run. I decided to rest on Sunday, because I had to reserve my body for the Zurich marathon in a few days, and I thought that I still have enough time on the Island to do cool stuff - and I was on a vacation after all, I do whatever I want. Or so I thought, I have to admit, I still felt the burning pressure to perform. I haven't had a vacation in a long time (not even a weekend really) where I could just rest, I always had to do something challenging, it didn't matter how tired I was.
+This is Monday, the 2nd day after my big run. I decided to rest on Sunday, because I had to reserve my body for the Zurich marathon in a few days, and I thought that I still have enough time on the Island to do cool stuff - and I was on a vacation after all, I do whatever I want. Or so I thought, I have to admit, I still felt the burning pressure to perform. I haven't had a vacation in a long time (not even a weekend really) where I could just rest, I always had to do something challenging, it didn't matter how tired I was. Whenever I closed my eyes, I still felt the judging look of my ex-girlfriend over my shoulder for being lazy.
 
 But with all my willpower I stayed put, and actually I even booked a massage! It felt really good and did well for my legs!
 
@@ -12,7 +12,7 @@ I took some selfies though so I could show people how cool I was, swimming in th
 
 In the afternoon we went for a little hike. The beginning of the trail looked very new, like as if they made it the same day new. Then it joined an older path I guess, which lead through some small and cold and really really dark caves, with the little channel on the side - the Madeira special. I have to admit something. I'm not actually a good hiker. When I read trail descriptions and see that it requires "surefootedness" I always tell to myself "Yup, that's not me.". But I tried to act cool and just kept pacing with the light of my phone's flash.
 
-![bike_bag](maps/trips/madeira2024/day3/img/IMG_1394.jpg)
+![bike_bag](maps/trips/madeira2024/day4/img/IMG_1394.jpg)
 
 
 
