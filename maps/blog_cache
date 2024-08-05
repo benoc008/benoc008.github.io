@@ -1128,7 +1128,7 @@
             "journeyId": "madeira2024",
             "distance": 10015.8,
             "elevation": 21,
-            "tripId": "run_20240417"
+            "tripId": "day6"
         },
         {
             "day": 4,
@@ -1176,7 +1176,7 @@
             "journeyId": "madeira2024",
             "distance": 6774.2,
             "elevation": 291,
-            "tripId": "hike_20240418"
+            "tripId": "day7"
         },
         {
             "day": 1,
@@ -1439,7 +1439,7 @@
             "journeyId": "madeira2024",
             "distance": 8031.7,
             "elevation": 412,
-            "tripId": "hike_20240416"
+            "tripId": "day5"
         },
         {
             "tripId": "day1",
