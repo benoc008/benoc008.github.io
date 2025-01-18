@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 1,
   "training": true,
-  "journeyId": "hvar2023"
+  "journeyId": "hvar2023",
+  "stravaId": 10031916172
 }
