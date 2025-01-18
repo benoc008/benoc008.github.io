@@ -7,5 +7,6 @@
   "title": "Uetliberg run",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9720015480
 }

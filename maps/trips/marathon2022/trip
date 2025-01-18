@@ -3,15 +3,19 @@
   "date": "2022-04-10",
   "gpxUrl": "run",
   "compressedGpxUrl": "run_compressed.gpx",
-   "images": [
-   {
-        "gps": [47.357,8.5325251],
-        "url": "IMG_1828.jpg",
-        "description": "Zürich Marathon 2022 Finisher."
+  "images": [
+    {
+      "gps": [
+        47.357,
+        8.5325251
+      ],
+      "url": "IMG_1828.jpg",
+      "description": "Zürich Marathon 2022 Finisher."
     }
   ],
   "title": "Zurich Marathon 2022",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 6958410914
 }

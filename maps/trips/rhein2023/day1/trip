@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 1,
   "journeyId": "rhein2023",
-  "training": true
+  "training": true,
+  "stravaId": 9095557324
 }

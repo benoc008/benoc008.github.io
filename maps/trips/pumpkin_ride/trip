@@ -7,5 +7,6 @@
   "title": "Pumpkin ride",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9956442844
 }

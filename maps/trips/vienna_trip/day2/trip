@@ -5,18 +5,25 @@
   "compressedGpxUrl": "ride_compressed.gpx",
   "images": [
     {
-        "gps": [48.9693,12.0242],
-        "url": "IMG_0874.jpg",
-        "description": "Cute old couple cycling hand in hand. #relationshipgoals"
+      "gps": [
+        48.9693,
+        12.0242
+      ],
+      "url": "IMG_0874.jpg",
+      "description": "Cute old couple cycling hand in hand. #relationshipgoals"
     },
     {
-        "gps": [48.5473,10.3427],
-        "url": "IMG_0865.jpg",
-        "description": "Not the Danube lol. (Brenz)"
+      "gps": [
+        48.5473,
+        10.3427
+      ],
+      "url": "IMG_0865.jpg",
+      "description": "Not the Danube lol. (Brenz)"
     }
   ],
   "title": "Ulm - Regensburg by the Danube",
   "activity": "ride",
   "day": 2,
-  "journeyId": "vienna_trip"
+  "journeyId": "vienna_trip",
+  "stravaId": 11063163818
 }

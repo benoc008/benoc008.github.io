@@ -7,5 +7,6 @@
   "title": "Cyclotour du Léman",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9200256958
 }

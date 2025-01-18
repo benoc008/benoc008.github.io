@@ -7,5 +7,6 @@
   "title": "Evening commute",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9476734284
 }

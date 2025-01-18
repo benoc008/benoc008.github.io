@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 1,
   "journeyId": "easter2023",
-  "training": true
+  "training": true,
+  "stravaId": 8848970600
 }

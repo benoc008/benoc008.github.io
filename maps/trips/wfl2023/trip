@@ -7,5 +7,6 @@
   "title": "Wings For Life 2023",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9029712492
 }

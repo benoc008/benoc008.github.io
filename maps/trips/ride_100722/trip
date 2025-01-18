@@ -7,5 +7,6 @@
   "title": "Ride with colleagues",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 7446597694
 }

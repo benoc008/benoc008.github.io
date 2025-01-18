@@ -7,5 +7,6 @@
   "title": "My first Marathon",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 5190179288
 }

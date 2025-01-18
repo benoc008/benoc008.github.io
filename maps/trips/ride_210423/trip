@@ -7,5 +7,6 @@
   "title": "Just a ride",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 8931901481
 }

@@ -7,5 +7,6 @@
   "title": "Aletsch Half Marathon",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9288497311
 }

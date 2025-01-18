@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 8,
   "journeyId": "summer2022",
-  "training": true
+  "training": true,
+  "stravaId": 9506359231
 }

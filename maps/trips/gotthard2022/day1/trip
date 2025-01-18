@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 1,
   "journeyId": "gotthard2022",
-  "training": true
+  "training": true,
+  "stravaId": 9550671254
 }

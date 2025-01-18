@@ -7,5 +7,6 @@
   "title": "Cycling with mom",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 8984717739
 }

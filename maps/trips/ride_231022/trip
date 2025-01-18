@@ -7,5 +7,6 @@
   "title": "Beautiful Fall ride",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 8008609023
 }

@@ -7,5 +7,6 @@
   "title": "Baar - Zurich run",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 11029657190
 }

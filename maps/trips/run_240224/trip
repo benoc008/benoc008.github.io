@@ -7,5 +7,6 @@
   "title": "Paks long run",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 10827774031
 }

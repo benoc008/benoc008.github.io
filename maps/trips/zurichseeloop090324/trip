@@ -6,5 +6,6 @@
   "title": "New bike day Zurichsee loop",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 10923523975
 }

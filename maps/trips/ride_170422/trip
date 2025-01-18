@@ -7,5 +7,6 @@
   "title": "Zug loop",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 6998055330
 }

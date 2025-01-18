@@ -7,5 +7,6 @@
   "title": "A beautiful day of cycling",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9240407233
 }

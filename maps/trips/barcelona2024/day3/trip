@@ -2,18 +2,27 @@
   "tripId": "day3",
   "date": "2024-03-03",
   "gpxUrl": "Afternoon_Run.gpx",
-  "images": [{
-        "gps": [41.4216,2.1192],
-        "url": "IMG_0624.jpg",
-        "description": "In front of El Tibidabo, the big church with Jesus on top, checking on the city of Barcelona. Watch out what you do, he can see everything!"
-      }, {
-        "gps": [41.4422,2.1298],
-        "url": "IMG_0630.jpg",
-        "description": "Selfie on this little peak, around 430m above the sea level, with Barcelona in the background."
-      }
-    ],
+  "images": [
+    {
+      "gps": [
+        41.4216,
+        2.1192
+      ],
+      "url": "IMG_0624.jpg",
+      "description": "In front of El Tibidabo, the big church with Jesus on top, checking on the city of Barcelona. Watch out what you do, he can see everything!"
+    },
+    {
+      "gps": [
+        41.4422,
+        2.1298
+      ],
+      "url": "IMG_0630.jpg",
+      "description": "Selfie on this little peak, around 430m above the sea level, with Barcelona in the background."
+    }
+  ],
   "title": "Run around Barcelona 2024-03-03",
   "activity": "run",
   "day": 3,
-  "journeyId": "barcelona2024"
+  "journeyId": "barcelona2024",
+  "stravaId": 10883305043
 }

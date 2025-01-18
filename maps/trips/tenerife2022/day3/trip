@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 3,
   "journeyId": "tenerife2022",
-  "training": true
+  "training": true,
+  "stravaId": 8082964381
 }
