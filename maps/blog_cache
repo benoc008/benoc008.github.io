@@ -1757,7 +1757,7 @@
       "title": "Lunch break ride"
     },
     {
-      "day": 0,
+      "day": 2,
       "stravaId": 11386848327,
       "training": false,
       "gpxUrl": "original.gpx",
@@ -1791,7 +1791,7 @@
     {
       "day": 1,
       "stravaId": 11306871707,
-      "training": true,
+      "training": false,
       "gpxUrl": "original.gpx",
       "compressedGpxUrl": "compressed.gpx",
       "date": "2024-05-01",
@@ -2987,7 +2987,7 @@
     {
       "trips": [
         {
-          "day": 0,
+          "day": 2,
           "stravaId": 11386848327,
           "training": false,
           "gpxUrl": "original.gpx",
@@ -3021,7 +3021,7 @@
         {
           "day": 1,
           "stravaId": 11306871707,
-          "training": true,
+          "training": false,
           "gpxUrl": "original.gpx",
           "compressedGpxUrl": "compressed.gpx",
           "date": "2024-05-01",
