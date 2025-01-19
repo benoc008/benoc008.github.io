@@ -1,0 +1,24 @@
+{
+  "day": 1,
+  "stravaId": 11306871707,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-05-01",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        48.07430277777778,
+        7.3596305555555555
+      ],
+      "url": "img_0.jpg",
+      "description": "Mandatory bike pic in the beautiful Colmar"
+    }
+  ],
+  "distance": 75003,
+  "elevation": 114,
+  "tripId": "ride_20240501",
+  "journeyId": "cycling_dates",
+  "title": "First date to Colmar"
+}
