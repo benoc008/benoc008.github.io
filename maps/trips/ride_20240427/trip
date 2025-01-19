@@ -1,0 +1,55 @@
+{
+  "day": 0,
+  "stravaId": 11274414148,
+  "training": false,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-04-27",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        47.142208333333336,
+        8.653122222222223
+      ],
+      "url": "img_0.jpg",
+      "description": "Snow views"
+    },
+    {
+      "gps": [
+        47.14134166666667,
+        8.664005555555557
+      ],
+      "url": "img_1.jpg",
+      "description": "The snow mobiles"
+    },
+    {
+      "gps": [
+        47.14096111111111,
+        8.658011111111112
+      ],
+      "url": "img_2.jpg",
+      "description": "Not too shabby"
+    },
+    {
+      "gps": [
+        47.13223611111111,
+        8.876755555555556
+      ],
+      "url": "img_3.jpg",
+      "description": "Must stop spot"
+    },
+    {
+      "gps": [
+        47.134675,
+        8.61298888888889
+      ],
+      "url": "img_4.jpg",
+      "description": "Going up!"
+    }
+  ],
+  "distance": 119194,
+  "elevation": 1682,
+  "tripId": "ride_20240427",
+  "title": "Snow Ride"
+}

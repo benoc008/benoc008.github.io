@@ -52,7 +52,8 @@
     "wfl2023",
     "wfl2022",
     "wfl2021",
-    "hike_20230929"
+    "hike_20230929",
+    "ride_20240427"
   ],
   "journeyIds": [
     "madeira2024",
@@ -79,5 +80,6 @@
   "highlightIds": [
     "vienna_trip/",
     "barcelona2024/"
-  ]
+  ],
+  "excludedStravaIds": []
 }
