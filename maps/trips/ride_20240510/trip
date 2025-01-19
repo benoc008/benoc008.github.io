@@ -1,0 +1,14 @@
+{
+  "day": 0,
+  "stravaId": 11376633740,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-05-10",
+  "activity": "ride",
+  "images": [],
+  "distance": 84271.6,
+  "elevation": 617,
+  "tripId": "ride_20240510",
+  "title": "Lunch break ride"
+}
