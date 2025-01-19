@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 2,
   "journeyId": "liechtenstein2023",
-  "training": true
+  "training": true,
+  "stravaId": 9164852042
 }

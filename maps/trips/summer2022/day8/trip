@@ -1,6 +1,6 @@
 {
   "tripId": "day8",
-  "date": "2023-07-23",
+  "date": "2022-07-23",
   "gpxUrl": "ride",
   "compressedGpxUrl": "ride_compressed.gpx",
   "images": [],
@@ -9,5 +9,5 @@
   "day": 8,
   "journeyId": "summer2022",
   "training": true,
-  "stravaId": 9506359231
+  "stravaId": 7515621249
 }

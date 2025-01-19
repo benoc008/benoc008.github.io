@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 2,
   "journeyId": "davos_stmoritz_como",
-  "training": true
+  "training": true,
+  "stravaId": 9823417323
 }

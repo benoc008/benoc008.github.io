@@ -7,5 +7,6 @@
   "title": "Drunk cycling in the rain",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9602507253
 }

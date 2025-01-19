@@ -7,5 +7,6 @@
   "title": "Szeged long run",
   "activity": "run",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 8989895901
 }

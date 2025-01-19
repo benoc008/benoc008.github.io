@@ -7,5 +7,6 @@
   "title": "First 100k",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 7373214203
 }

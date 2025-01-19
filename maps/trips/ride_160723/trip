@@ -7,5 +7,6 @@
   "title": "333 Attempt",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 9464434600
 }

@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 2,
   "journeyId": "chamonix2023",
-  "training": true
+  "training": true,
+  "stravaId": 9638506916
 }

@@ -8,5 +8,6 @@
   "activity": "ride",
   "day": 2,
   "journeyId": "gemmipass2022",
-  "training": true
+  "training": true,
+  "stravaId": 8043245754
 }

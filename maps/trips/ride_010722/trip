@@ -7,5 +7,6 @@
   "title": "Obersee loop",
   "activity": "ride",
   "day": 0,
-  "training": true
+  "training": true,
+  "stravaId": 7399153775
 }
