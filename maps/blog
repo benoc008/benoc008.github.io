@@ -53,7 +53,8 @@
     "wfl2022",
     "wfl2021",
     "hike_20230929",
-    "ride_20240427"
+    "ride_20240427",
+    "ride_20240510"
   ],
   "journeyIds": [
     "madeira2024",
@@ -68,7 +69,8 @@
     "tenerife2022",
     "gemmipass2022",
     "gotthard2022",
-    "summer2022"
+    "summer2022",
+    "cycling_dates"
   ],
   "latestIds": [
     "vienna_trip/day4",

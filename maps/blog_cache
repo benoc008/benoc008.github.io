@@ -1741,6 +1741,52 @@
       "elevation": 1682,
       "tripId": "ride_20240427",
       "title": "Snow Ride"
+    },
+    {
+      "day": 0,
+      "stravaId": 11376633740,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-05-10",
+      "activity": "ride",
+      "images": [],
+      "distance": 84271.6,
+      "elevation": 617,
+      "tripId": "ride_20240510",
+      "title": "Lunch break ride"
+    },
+    {
+      "day": 0,
+      "stravaId": 11386848327,
+      "training": false,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-05-11",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            46.17610833333333,
+            8.695611111111111
+          ],
+          "url": "img_0.jpg",
+          "description": "Ticino Views"
+        },
+        {
+          "gps": [
+            46.062980555555555,
+            8.700155555555554
+          ],
+          "url": "img_1.jpg",
+          "description": "Buongiorno"
+        }
+      ],
+      "distance": 74266.7,
+      "elevation": 998,
+      "tripId": "ride_20240511",
+      "title": "Cycling Date In Ticino / Italy",
+      "journeyId": "cycling_dates"
     }
   ],
   "journeys": [
@@ -2912,6 +2958,46 @@
           "training": true,
           "stravaId": 7515621249
         }
+      ]
+    },
+    {
+      "trips": [
+        {
+          "day": 0,
+          "stravaId": 11386848327,
+          "training": false,
+          "gpxUrl": "original.gpx",
+          "compressedGpxUrl": "compressed.gpx",
+          "date": "2024-05-11",
+          "activity": "ride",
+          "images": [
+            {
+              "gps": [
+                46.17610833333333,
+                8.695611111111111
+              ],
+              "url": "img_0.jpg",
+              "description": "Ticino Views"
+            },
+            {
+              "gps": [
+                46.062980555555555,
+                8.700155555555554
+              ],
+              "url": "img_1.jpg",
+              "description": "Buongiorno"
+            }
+          ],
+          "distance": 74266.7,
+          "elevation": 998,
+          "tripId": "ride_20240511",
+          "title": "Cycling Date In Ticino / Italy",
+          "journeyId": "cycling_dates"
+        }
+      ],
+      "title": "Cycling Dates",
+      "tripIds": [
+        "ride_20240511"
       ]
     }
   ],
