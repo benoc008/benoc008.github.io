@@ -1,0 +1,39 @@
+{
+  "day": 0,
+  "stravaId": 11438945532,
+  "training": false,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-05-18",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        47.14241111111111,
+        8.505630555555555
+      ],
+      "url": "img_0.jpg",
+      "description": "With the tri squad"
+    },
+    {
+      "gps": [
+        47.06723055555556,
+        8.525075000000001
+      ],
+      "url": "img_1.jpg",
+      "description": "Mandatory bike collection"
+    },
+    {
+      "gps": [
+        47.05645833333333,
+        8.589925000000001
+      ],
+      "url": "img_2.jpg",
+      "description": "Views towards Sattel"
+    }
+  ],
+  "distance": 48957.1,
+  "elevation": 482,
+  "tripId": "ride_20240518",
+  "title": "Sattel loop"
+}

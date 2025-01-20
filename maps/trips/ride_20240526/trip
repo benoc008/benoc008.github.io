@@ -1,0 +1,119 @@
+{
+  "day": 0,
+  "stravaId": 11505110503,
+  "training": false,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-05-26",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        46.88780277777778,
+        8.896938888888888
+      ],
+      "url": "img_0.jpg",
+      "description": "View"
+    },
+    {
+      "gps": [
+        46.87293611111111,
+        8.871891666666667
+      ],
+      "url": "img_1.jpg",
+      "description": "Climbing up on Klausenpass"
+    },
+    {
+      "gps": [
+        46.90372222222222,
+        8.957705555555554
+      ],
+      "url": "img_2.jpg",
+      "description": "Pacing to the first climb"
+    },
+    {
+      "gps": [
+        46.84148888888889,
+        8.645055555555555
+      ],
+      "url": "img_3.jpg",
+      "description": "View"
+    },
+    {
+      "gps": [
+        46.65263611111111,
+        8.58468888888889
+      ],
+      "url": "img_4.jpg",
+      "description": "Towards Andermatt"
+    },
+    {
+      "gps": [
+        46.667449999999995,
+        8.589402777777778
+      ],
+      "url": "img_5.jpg",
+      "description": "The famous Goeschenen bridge view"
+    },
+    {
+      "gps": [
+        46.65873055555556,
+        8.671113888888888
+      ],
+      "url": "img_6.jpg",
+      "description": "Freezing on Oberalppass"
+    },
+    {
+      "gps": [
+        46.806213888888884,
+        9.44368888888889
+      ],
+      "url": "img_7.jpg",
+      "description": "View"
+    },
+    {
+      "gps": [
+        46.87231388888889,
+        8.870208333333334
+      ],
+      "url": "img_8.jpg",
+      "description": "More snow than expected"
+    },
+    {
+      "gps": [
+        46.87113611111111,
+        8.779619444444446
+      ],
+      "url": "img_9.jpg",
+      "description": "View"
+    },
+    {
+      "gps": [
+        46.86808413958108,
+        8.85548939495003
+      ],
+      "url": "img_10.jpg",
+      "description": "Ski season or Cycling season?"
+    },
+    {
+      "gps": [
+        46.868192332119335,
+        8.855188987543343
+      ],
+      "url": "img_11.jpg",
+      "description": "That's a lot of snow"
+    },
+    {
+      "gps": [
+        46.968509321314734,
+        9.040398011690549
+      ],
+      "url": "img_12.jpg",
+      "description": "View and squad"
+    }
+  ],
+  "distance": 261757,
+  "elevation": 3835,
+  "tripId": "ride_20240526",
+  "title": "Klausenpass + Oberalppass"
+}
