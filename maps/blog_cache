@@ -48,18 +48,6 @@
             "stravaId": 9956442844
         },
         {
-            "tripId": "ride_050923",
-            "date": "2023-09-05",
-            "gpxUrl": "commute",
-            "compressedGpxUrl": "commute_compressed.gpx",
-            "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 9790041573
-        },
-        {
             "tripId": "ride_160923",
             "date": "2023-09-16",
             "gpxUrl": "ride",
@@ -70,6 +58,18 @@
             "day": 0,
             "training": true,
             "stravaId": 9861813898
+        },
+        {
+            "tripId": "ride_050923",
+            "date": "2023-09-05",
+            "gpxUrl": "commute",
+            "compressedGpxUrl": "commute_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9790041573
         },
         {
             "tripId": "ride_040923",
@@ -84,6 +84,18 @@
             "stravaId": 9783528731
         },
         {
+            "tripId": "ride_050823",
+            "date": "2023-08-05",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Drunk cycling in the rain",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9602507253
+        },
+        {
             "tripId": "ride_200723",
             "date": "2023-07-20",
             "gpxUrl": "ride",
@@ -94,30 +106,6 @@
             "day": 0,
             "training": true,
             "stravaId": 9488196552
-        },
-        {
-            "tripId": "ride_240623",
-            "date": "2023-06-24",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Chilling while waiting for La Reine finishers",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 9326234603
-        },
-        {
-            "tripId": "ride_030723",
-            "date": "2023-07-03",
-            "gpxUrl": "ride_compressed",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Gravel ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 9380480590
         },
         {
             "tripId": "ride_180723",
@@ -144,16 +132,88 @@
             "stravaId": 9464434600
         },
         {
-            "tripId": "ride_050823",
-            "date": "2023-08-05",
+            "tripId": "ride_130723",
+            "date": "2023-07-13",
             "gpxUrl": "ride",
             "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
-            "title": "Drunk cycling in the rain",
+            "title": "Just a ride",
             "activity": "ride",
             "day": 0,
             "training": true,
-            "stravaId": 9602507253
+            "stravaId": 9445553517
+        },
+        {
+            "tripId": "ride_030723",
+            "date": "2023-07-03",
+            "gpxUrl": "ride_compressed",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Gravel ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9380480590
+        },
+        {
+            "tripId": "ride_240623",
+            "date": "2023-06-24",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Chilling while waiting for La Reine finishers",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9326234603
+        },
+        {
+            "tripId": "ride_190623",
+            "date": "2023-06-19",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Evening commute",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9297185722
+        },
+        {
+            "tripId": "ride_140623",
+            "date": "2023-06-14",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9266066284
+        },
+        {
+            "tripId": "ride_100623",
+            "date": "2023-06-10",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "A beautiful day of cycling",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9240407233
+        },
+        {
+            "tripId": "ride_080623",
+            "date": "2023-06-08",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 9228792574
         },
         {
             "tripId": "ride_040623",
@@ -168,8 +228,8 @@
             "stravaId": 9200256958
         },
         {
-            "tripId": "ride_130723",
-            "date": "2023-07-13",
+            "tripId": "ride_260523",
+            "date": "2023-06-26",
             "gpxUrl": "ride",
             "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
@@ -177,19 +237,43 @@
             "activity": "ride",
             "day": 0,
             "training": true,
-            "stravaId": 9445553517
+            "stravaId": 9338232648
         },
         {
-            "tripId": "ride_100623",
-            "date": "2023-06-10",
+            "tripId": "ride_240523",
+            "date": "2023-06-24",
             "gpxUrl": "ride",
             "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
-            "title": "A beautiful day of cycling",
+            "title": "Bike to work day",
             "activity": "ride",
             "day": 0,
             "training": true,
-            "stravaId": 9240407233
+            "stravaId": 9326234603
+        },
+        {
+            "tripId": "ride_300423",
+            "date": "2023-04-30",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Cycling with mom",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 8984717739
+        },
+        {
+            "tripId": "ride_210423",
+            "date": "2023-04-21",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 8931901481
         },
         {
             "day": 0,
@@ -227,76 +311,16 @@
             "stravaId": 8008609023
         },
         {
-            "tripId": "ride_140623",
-            "date": "2023-06-14",
+            "tripId": "ride_081022",
+            "date": "2022-10-08",
             "gpxUrl": "ride",
             "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
-            "title": "Just a ride",
+            "title": "Rheinfall ride",
             "activity": "ride",
             "day": 0,
             "training": true,
-            "stravaId": 9266066284
-        },
-        {
-            "tripId": "ride_190623",
-            "date": "2023-06-19",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Evening commute",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 9297185722
-        },
-        {
-            "tripId": "ride_280822",
-            "date": "2022-08-28",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Pragel pass",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7716180910
-        },
-        {
-            "tripId": "ride_210423",
-            "date": "2023-04-21",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 8931901481
-        },
-        {
-            "tripId": "ride_300423",
-            "date": "2023-04-30",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Cycling with mom",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 8984717739
-        },
-        {
-            "tripId": "ride_260523",
-            "date": "2023-06-26",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 9338232648
+            "stravaId": 7932113483
         },
         {
             "tripId": "ride_110922",
@@ -311,8 +335,20 @@
             "stravaId": 7791667530
         },
         {
-            "tripId": "ride_080623",
-            "date": "2023-06-08",
+            "tripId": "ride_280822",
+            "date": "2022-08-28",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Pragel pass",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7716180910
+        },
+        {
+            "tripId": "ride_110822",
+            "date": "2022-08-11",
             "gpxUrl": "ride",
             "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
@@ -320,7 +356,79 @@
             "activity": "ride",
             "day": 0,
             "training": true,
-            "stravaId": 9228792574
+            "stravaId": 7622321478
+        },
+        {
+            "tripId": "ride_100822",
+            "date": "2022-08-10",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7616553554
+        },
+        {
+            "tripId": "ride_030822",
+            "date": "2022-08-03",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7577746152
+        },
+        {
+            "tripId": "ride_240722",
+            "date": "2022-07-24",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Just a ride",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7522162686
+        },
+        {
+            "tripId": "ride_100722",
+            "date": "2022-07-10",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride with colleagues",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7446597694
+        },
+        {
+            "tripId": "ride_010722",
+            "date": "2022-07-01",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Obersee loop",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7399153775
+        },
+        {
+            "tripId": "ride_260622",
+            "date": "2022-06-26",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "First 100k",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7373214203
         },
         {
             "tripId": "ride_120622",
@@ -333,6 +441,42 @@
             "day": 0,
             "training": true,
             "stravaId": 7297260652
+        },
+        {
+            "tripId": "ride_230422",
+            "date": "2022-04-23",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Rigi loop",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 7028813401
+        },
+        {
+            "tripId": "ride_170422",
+            "date": "2022-04-17",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Zug loop",
+            "activity": "ride",
+            "day": 0,
+            "training": true,
+            "stravaId": 6998055330
+        },
+        {
+            "tripId": "marathon2021",
+            "date": "2021-04-25",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "My first Marathon",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 5190179288
         },
         {
             "tripId": "marathon2022",
@@ -368,126 +512,16 @@
             "stravaId": 11118929108
         },
         {
-            "tripId": "ride_170422",
-            "date": "2022-04-17",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Zug loop",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 6998055330
-        },
-        {
-            "tripId": "ride_240722",
-            "date": "2022-07-24",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7522162686
-        },
-        {
-            "tripId": "ride_010722",
-            "date": "2022-07-01",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Obersee loop",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7399153775
-        },
-        {
-            "tripId": "run_180224",
-            "date": "2024-02-18",
+            "tripId": "run_240224",
+            "date": "2024-02-24",
             "gpxUrl": "run",
             "compressedGpxUrl": "run_compressed.gpx",
             "images": [],
-            "title": "Up2peak Early Risers",
+            "title": "Paks long run",
             "activity": "run",
             "day": 0,
             "training": true,
-            "stravaId": 10786009570
-        },
-        {
-            "tripId": "ride_230422",
-            "date": "2022-04-23",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Rigi loop",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7028813401
-        },
-        {
-            "day": 0,
-            "stravaId": 11376633740,
-            "training": true,
-            "gpxUrl": "original.gpx",
-            "compressedGpxUrl": "compressed.gpx",
-            "date": "2024-05-10",
-            "activity": "ride",
-            "images": [],
-            "distance": 84271.6,
-            "elevation": 617,
-            "tripId": "ride_20240510",
-            "title": "Lunch break ride"
-        },
-        {
-            "tripId": "ride_110822",
-            "date": "2022-08-11",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7622321478
-        },
-        {
-            "tripId": "wfl2023",
-            "date": "2023-05-07",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "Wings For Life 2023",
-            "activity": "run",
-            "day": 0,
-            "training": true,
-            "stravaId": 9029712492
-        },
-        {
-            "tripId": "ride_100822",
-            "date": "2022-08-10",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7616553554
-        },
-        {
-            "tripId": "marathon2021",
-            "date": "2021-04-25",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "My first Marathon",
-            "activity": "run",
-            "day": 0,
-            "training": true,
-            "stravaId": 5190179288
+            "stravaId": 10827774031
         },
         {
             "tripId": "run_170324",
@@ -502,16 +536,64 @@
             "stravaId": 10979545520
         },
         {
-            "tripId": "wfl2022",
-            "date": "2022-05-08",
+            "tripId": "run_100224",
+            "date": "2024-02-10",
             "gpxUrl": "run",
             "compressedGpxUrl": "run_compressed.gpx",
             "images": [],
-            "title": "Wings For Life 2022",
+            "title": "Just a run",
             "activity": "run",
             "day": 0,
             "training": true,
-            "stravaId": 7108618078
+            "stravaId": 10733218917
+        },
+        {
+            "tripId": "run_180224",
+            "date": "2024-02-18",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "Up2peak Early Risers",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 10786009570
+        },
+        {
+            "tripId": "run_010523",
+            "date": "2023-05-01",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "Szeged long run",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 8989895901
+        },
+        {
+            "tripId": "run_250823",
+            "date": "2023-08-25",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "Uetliberg run",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 9720015480
+        },
+        {
+            "tripId": "run_291023",
+            "date": "2023-10-23",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "Just a run",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 10096739392
         },
         {
             "tripId": "aletsch2023",
@@ -524,6 +606,56 @@
             "day": 0,
             "training": true,
             "stravaId": 9288497311
+        },
+        {
+            "tripId": "wfl2023",
+            "date": "2023-05-07",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "Wings For Life 2023",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 9029712492
+        },
+        {
+            "tripId": "wfl2022",
+            "date": "2022-05-08",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "Wings For Life 2022",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 7108618078
+        },
+        {
+            "tripId": "wfl2021",
+            "date": "2021-05-09",
+            "gpxUrl": "run",
+            "compressedGpxUrl": "run_compressed.gpx",
+            "images": [],
+            "title": "Wings For Life 2021",
+            "activity": "run",
+            "day": 0,
+            "training": true,
+            "stravaId": 5267930089
+        },
+        {
+            "day": 0,
+            "training": true,
+            "gpxUrl": "original.gpx",
+            "compressedGpxUrl": "compressed.gpx",
+            "date": "2023-09-29",
+            "activity": "hike",
+            "images": [],
+            "title": "Churfirsten",
+            "elevation": 4785,
+            "distance": 37818,
+            "tripId": "hike_20230929",
+            "stravaId": 9944042461
         },
         {
             "day": 0,
@@ -581,102 +713,18 @@
             "title": "Snow Ride"
         },
         {
-            "tripId": "run_250823",
-            "date": "2023-08-25",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "Uetliberg run",
-            "activity": "run",
             "day": 0,
-            "training": true,
-            "stravaId": 9720015480
-        },
-        {
-            "tripId": "ride_260622",
-            "date": "2022-06-26",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "First 100k",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7373214203
-        },
-        {
-            "tripId": "run_010523",
-            "date": "2023-05-01",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "Szeged long run",
-            "activity": "run",
-            "day": 0,
-            "training": true,
-            "stravaId": 8989895901
-        },
-        {
-            "tripId": "run_240224",
-            "date": "2024-02-24",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "Paks long run",
-            "activity": "run",
-            "day": 0,
-            "training": true,
-            "stravaId": 10827774031
-        },
-        {
-            "day": 0,
+            "stravaId": 11376633740,
             "training": true,
             "gpxUrl": "original.gpx",
             "compressedGpxUrl": "compressed.gpx",
-            "date": "2023-09-29",
-            "activity": "hike",
-            "images": [],
-            "title": "Churfirsten",
-            "elevation": 4785,
-            "distance": 37818,
-            "tripId": "hike_20230929",
-            "stravaId": 9944042461
-        },
-        {
-            "tripId": "run_100224",
-            "date": "2024-02-10",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "Just a run",
-            "activity": "run",
-            "day": 0,
-            "training": true,
-            "stravaId": 10733218917
-        },
-        {
-            "tripId": "ride_240523",
-            "date": "2023-06-24",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Bike to work day",
+            "date": "2024-05-10",
             "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 9326234603
-        },
-        {
-            "tripId": "ride_100722",
-            "date": "2022-07-10",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
             "images": [],
-            "title": "Ride with colleagues",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7446597694
+            "distance": 84271.6,
+            "elevation": 617,
+            "tripId": "ride_20240510",
+            "title": "Lunch break ride"
         },
         {
             "day": 0,
@@ -716,30 +764,6 @@
             "elevation": 482,
             "tripId": "ride_20240518",
             "title": "Sattel loop"
-        },
-        {
-            "tripId": "ride_081022",
-            "date": "2022-10-08",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Rheinfall ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7932113483
-        },
-        {
-            "tripId": "ride_030822",
-            "date": "2022-08-03",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Just a ride",
-            "activity": "ride",
-            "day": 0,
-            "training": true,
-            "stravaId": 7577746152
         },
         {
             "day": 0,
@@ -861,413 +885,6 @@
             "title": "Klausenpass + Oberalppass"
         },
         {
-            "tripId": "run_291023",
-            "date": "2023-10-23",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "Just a run",
-            "activity": "run",
-            "day": 0,
-            "training": true,
-            "stravaId": 10096739392
-        },
-        {
-            "tripId": "wfl2021",
-            "date": "2021-05-09",
-            "gpxUrl": "run",
-            "compressedGpxUrl": "run_compressed.gpx",
-            "images": [],
-            "title": "Wings For Life 2021",
-            "activity": "run",
-            "day": 0,
-            "training": true,
-            "stravaId": 5267930089
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-08-12",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Zurich - Martigny",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "chamonix2023",
-            "training": true,
-            "stravaId": 9634879224
-        },
-        {
-            "tripId": "day2",
-            "date": "2023-08-13",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Martigny - Chamonix",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "chamonix2023",
-            "training": true,
-            "stravaId": 9638506916
-        },
-        {
-            "tripId": "day9",
-            "date": "2023-08-20",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Courmayeur - Martigny",
-            "activity": "ride",
-            "day": 9,
-            "journeyId": "chamonix2023",
-            "training": true,
-            "stravaId": 9686004711
-        },
-        {
-            "tripId": "day7",
-            "date": "2023-08-18",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Chamonix - Beaufort",
-            "activity": "ride",
-            "day": 7,
-            "journeyId": "chamonix2023",
-            "training": true,
-            "stravaId": 9673314717
-        },
-        {
-            "tripId": "day8",
-            "date": "2023-08-19",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Beaufort - Courmayeur",
-            "activity": "ride",
-            "day": 8,
-            "journeyId": "chamonix2023",
-            "training": true,
-            "stravaId": 9680657551
-        },
-        {
-            "day": 2,
-            "stravaId": 11386848327,
-            "training": false,
-            "gpxUrl": "original.gpx",
-            "compressedGpxUrl": "compressed.gpx",
-            "date": "2024-05-11",
-            "activity": "ride",
-            "images": [
-                {
-                    "gps": [
-                        46.17610833333333,
-                        8.695611111111111
-                    ],
-                    "url": "img_0.jpg",
-                    "description": "Ticino Views"
-                },
-                {
-                    "gps": [
-                        46.062980555555555,
-                        8.700155555555554
-                    ],
-                    "url": "img_1.jpg",
-                    "description": "Buongiorno"
-                }
-            ],
-            "distance": 74266.7,
-            "elevation": 998,
-            "tripId": "ride_20240511",
-            "title": "Cycling Date In Ticino / Italy",
-            "journeyId": "cycling_dates"
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-04-07",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "St. Gallen - Freienbach",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "easter2023",
-            "training": true,
-            "stravaId": 8848970600
-        },
-        {
-            "tripId": "day2",
-            "date": "2023-04-08",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Freienbach - Malters",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "easter2023",
-            "training": true,
-            "stravaId": 8855645128
-        },
-        {
-            "tripId": "day4",
-            "date": "2023-04-10",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Biel - Basel",
-            "activity": "ride",
-            "day": 4,
-            "journeyId": "easter2023",
-            "training": true,
-            "stravaId": 8866028636
-        },
-        {
-            "tripId": "day3",
-            "date": "2023-04-09",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Malters - Biel",
-            "activity": "ride",
-            "day": 3,
-            "journeyId": "easter2023",
-            "training": true,
-            "stravaId": 8861107510
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-07-30",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Gotthard Pass: Altdorf - Biasca",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "gotthard2022",
-            "training": true,
-            "stravaId": 9550671254
-        },
-        {
-            "tripId": "day2",
-            "date": "2023-07-31",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Biasca - Chiasso",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "gotthard2022",
-            "training": true,
-            "stravaId": 9556461525
-        },
-        {
-            "tripId": "day4",
-            "date": "2023-05-21",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Ride into Strasbourg",
-            "activity": "ride",
-            "day": 4,
-            "journeyId": "rhein2023",
-            "training": true,
-            "stravaId": 9113070466
-        },
-        {
-            "tripId": "day2",
-            "date": "2023-05-19",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Dornbirn - Waldshut",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "rhein2023",
-            "training": true,
-            "stravaId": 9101595140
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-05-18",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Zurichsee - Dornbirn",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "rhein2023",
-            "training": true,
-            "stravaId": 9095557324
-        },
-        {
-            "tripId": "day3",
-            "date": "2023-05-20",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Waldshut - Strasbourg",
-            "activity": "ride",
-            "day": 3,
-            "journeyId": "rhein2023",
-            "training": true,
-            "stravaId": 9108142045
-        },
-        {
-            "tripId": "day2",
-            "date": "2023-09-10",
-            "gpxUrl": "stmoritz_como",
-            "compressedGpxUrl": "stmoritz_como_compressed.gpx",
-            "images": [],
-            "title": "Riding from St Moritz to the edge of lake Como",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "davos_stmoritz_como",
-            "training": true,
-            "stravaId": 9823417323
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-09-09",
-            "gpxUrl": "sargans_stmoritz.gpx",
-            "compressedGpxUrl": "sargans_stmoritz_compressed.gpx",
-            "images": [],
-            "title": "Sargans to St. Moritz",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "davos_stmoritz_como",
-            "training": true,
-            "stravaId": 9815588466
-        },
-        {
-            "tripId": "day3",
-            "date": "2023-09-11",
-            "gpxUrl": "como.gpx",
-            "compressedGpxUrl": "como_compressed.gpx",
-            "images": [],
-            "title": "Riding around lake Como",
-            "activity": "ride",
-            "day": 3,
-            "journeyId": "davos_stmoritz_como",
-            "training": true,
-            "stravaId": 9828470661
-        },
-        {
-            "tripId": "day2",
-            "date": "2022-07-17",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Horw - Spiez",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "summer2022",
-            "training": true,
-            "stravaId": 7485404888
-        },
-        {
-            "tripId": "day4",
-            "date": "2022-07-19",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Merligen - Chateau d'oex",
-            "activity": "ride",
-            "day": 4,
-            "journeyId": "summer2022",
-            "training": true,
-            "stravaId": 7494817307
-        },
-        {
-            "tripId": "day7",
-            "date": "2022-07-22",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Geneva - Lausanne",
-            "activity": "ride",
-            "day": 7,
-            "journeyId": "summer2022",
-            "training": true,
-            "stravaId": 7509553506
-        },
-        {
-            "tripId": "day8",
-            "date": "2022-07-23",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Lausanne vineyards",
-            "activity": "ride",
-            "day": 8,
-            "journeyId": "summer2022",
-            "training": true,
-            "stravaId": 7515621249
-        },
-        {
-            "tripId": "day1",
-            "date": "2022-07-16",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Freienbach - Horw",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "summer2022",
-            "training": true,
-            "stravaId": 7478794053
-        },
-        {
-            "tripId": "day6",
-            "date": "2022-07-21",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Meillerie - Geneva",
-            "activity": "ride",
-            "day": 6,
-            "journeyId": "summer2022",
-            "training": true,
-            "stravaId": 7504576008
-        },
-        {
-            "tripId": "day5",
-            "date": "2022-07-20",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Chateau d'oex - Meillerie",
-            "activity": "ride",
-            "day": 5,
-            "journeyId": "summer2022",
-            "training": true,
-            "stravaId": 7500044340
-        },
-        {
-            "tripId": "day3",
-            "date": "2022-11-07",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Teide from North",
-            "activity": "ride",
-            "day": 3,
-            "journeyId": "tenerife2022",
-            "training": true,
-            "stravaId": 8082964381
-        },
-        {
-            "tripId": "day6",
-            "date": "2022-11-10",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Teide from South",
-            "activity": "ride",
-            "day": 6,
-            "journeyId": "tenerife2022",
-            "training": true,
-            "stravaId": 8097542675
-        },
-        {
             "day": 1,
             "training": false,
             "gpxUrl": "original.gpx",
@@ -1345,142 +962,6 @@
             "distance": 68522,
             "tripId": "day2",
             "journeyId": "madeira2024"
-        },
-        {
-            "day": 4,
-            "stravaId": 11188942091,
-            "training": false,
-            "gpxUrl": "original.gpx",
-            "compressedGpxUrl": "compressed.gpx",
-            "date": "2024-04-15",
-            "activity": "hike",
-            "images": [
-                {
-                    "gps": [
-                        32.7825,
-                        -17.0359
-                    ],
-                    "description": "Dark and narrow tunnels",
-                    "url": "IMG_1394.jpg"
-                }
-            ],
-            "title": "Day 4",
-            "journeyId": "madeira2024",
-            "distance": 5553.7,
-            "elevation": 206,
-            "tripId": "day4"
-        },
-        {
-            "day": 6,
-            "stravaId": 11204775338,
-            "training": false,
-            "gpxUrl": "original.gpx",
-            "compressedGpxUrl": "compressed.gpx",
-            "date": "2024-04-17",
-            "activity": "run",
-            "images": [
-                {
-                    "gps": [
-                        32.7185,
-                        -16.9649
-                    ],
-                    "description": "Views",
-                    "url": "IMG_1528.jpg"
-                },
-                {
-                    "gps": [
-                        32.6446,
-                        -16.9135
-                    ],
-                    "description": "My friend, Ronaldo",
-                    "url": "IMG_1536.jpg"
-                }
-            ],
-            "title": "Day 7",
-            "journeyId": "madeira2024",
-            "distance": 10015.8,
-            "elevation": 21,
-            "tripId": "day6"
-        },
-        {
-            "day": 5,
-            "stravaId": 11194131779,
-            "training": false,
-            "gpxUrl": "original.gpx",
-            "compressedGpxUrl": "compressed.gpx",
-            "date": "2024-04-16",
-            "activity": "hike",
-            "images": [
-                {
-                    "gps": [
-                        32.7403,
-                        -16.9245
-                    ],
-                    "description": "Sunrise from Pico Areeiro",
-                    "url": "IMG_1421.jpg"
-                },
-                {
-                    "gps": [
-                        32.749,
-                        -16.6976
-                    ],
-                    "description": "Rocks",
-                    "url": "IMG_1464.jpg"
-                },
-                {
-                    "gps": [
-                        32.7505194,
-                        -16.6939056
-                    ],
-                    "description": "More rocks.",
-                    "url": "IMG_1470.jpg"
-                },
-                {
-                    "gps": [
-                        32.7464,
-                        -16.6902
-                    ],
-                    "description": "Views",
-                    "url": "IMG_1474.jpg"
-                },
-                {
-                    "gps": [
-                        32.8274,
-                        -17.111
-                    ],
-                    "description": "Natural pools",
-                    "url": "IMG_1519.jpg"
-                }
-            ],
-            "title": "Day 5",
-            "journeyId": "madeira2024",
-            "distance": 8031.7,
-            "elevation": 412,
-            "tripId": "day5"
-        },
-        {
-            "day": 7,
-            "stravaId": 11210369847,
-            "training": false,
-            "gpxUrl": "original.gpx",
-            "compressedGpxUrl": "compressed.gpx",
-            "date": "2024-04-18",
-            "activity": "hike",
-            "images": [
-                {
-                    "gps": [
-                        32.7603,
-                        -17.1234
-                    ],
-                    "description": "Waterfall",
-                    "url": "IMG_1557.jpg"
-                }
-            ],
-            "title": "Day 8",
-            "journeyId": "madeira2024",
-            "distance": 6774.2,
-            "elevation": 291,
-            "tripId": "day7"
         },
         {
             "day": 3,
@@ -1611,6 +1092,195 @@
             "tripId": "day3"
         },
         {
+            "day": 4,
+            "stravaId": 11188942091,
+            "training": false,
+            "gpxUrl": "original.gpx",
+            "compressedGpxUrl": "compressed.gpx",
+            "date": "2024-04-15",
+            "activity": "hike",
+            "images": [
+                {
+                    "gps": [
+                        32.7825,
+                        -17.0359
+                    ],
+                    "description": "Dark and narrow tunnels",
+                    "url": "IMG_1394.jpg"
+                }
+            ],
+            "title": "Day 4",
+            "journeyId": "madeira2024",
+            "distance": 5553.7,
+            "elevation": 206,
+            "tripId": "day4"
+        },
+        {
+            "day": 5,
+            "stravaId": 11194131779,
+            "training": false,
+            "gpxUrl": "original.gpx",
+            "compressedGpxUrl": "compressed.gpx",
+            "date": "2024-04-16",
+            "activity": "hike",
+            "images": [
+                {
+                    "gps": [
+                        32.7403,
+                        -16.9245
+                    ],
+                    "description": "Sunrise from Pico Areeiro",
+                    "url": "IMG_1421.jpg"
+                },
+                {
+                    "gps": [
+                        32.749,
+                        -16.6976
+                    ],
+                    "description": "Rocks",
+                    "url": "IMG_1464.jpg"
+                },
+                {
+                    "gps": [
+                        32.7505194,
+                        -16.6939056
+                    ],
+                    "description": "More rocks.",
+                    "url": "IMG_1470.jpg"
+                },
+                {
+                    "gps": [
+                        32.7464,
+                        -16.6902
+                    ],
+                    "description": "Views",
+                    "url": "IMG_1474.jpg"
+                },
+                {
+                    "gps": [
+                        32.8274,
+                        -17.111
+                    ],
+                    "description": "Natural pools",
+                    "url": "IMG_1519.jpg"
+                }
+            ],
+            "title": "Day 5",
+            "journeyId": "madeira2024",
+            "distance": 8031.7,
+            "elevation": 412,
+            "tripId": "day5"
+        },
+        {
+            "day": 7,
+            "stravaId": 11210369847,
+            "training": false,
+            "gpxUrl": "original.gpx",
+            "compressedGpxUrl": "compressed.gpx",
+            "date": "2024-04-18",
+            "activity": "hike",
+            "images": [
+                {
+                    "gps": [
+                        32.7603,
+                        -17.1234
+                    ],
+                    "description": "Waterfall",
+                    "url": "IMG_1557.jpg"
+                }
+            ],
+            "title": "Day 8",
+            "journeyId": "madeira2024",
+            "distance": 6774.2,
+            "elevation": 291,
+            "tripId": "day7"
+        },
+        {
+            "day": 6,
+            "stravaId": 11204775338,
+            "training": false,
+            "gpxUrl": "original.gpx",
+            "compressedGpxUrl": "compressed.gpx",
+            "date": "2024-04-17",
+            "activity": "run",
+            "images": [
+                {
+                    "gps": [
+                        32.7185,
+                        -16.9649
+                    ],
+                    "description": "Views",
+                    "url": "IMG_1528.jpg"
+                },
+                {
+                    "gps": [
+                        32.6446,
+                        -16.9135
+                    ],
+                    "description": "My friend, Ronaldo",
+                    "url": "IMG_1536.jpg"
+                }
+            ],
+            "title": "Day 7",
+            "journeyId": "madeira2024",
+            "distance": 10015.8,
+            "elevation": 21,
+            "tripId": "day6"
+        },
+        {
+            "tripId": "day1",
+            "date": "2024-03-28",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [
+                {
+                    "gps": [
+                        47.9519,
+                        8.5026
+                    ],
+                    "url": "IMG_0837.jpg",
+                    "description": "The source of the Danube."
+                },
+                {
+                    "gps": [
+                        48.2502,
+                        9.7206
+                    ],
+                    "url": "IMG_0855.jpg",
+                    "description": "Being happy after the crash, that my fingers are intact."
+                },
+                {
+                    "gps": [
+                        48.089,
+                        9.1085
+                    ],
+                    "url": "IMG_0848.jpg",
+                    "description": "Cute little Danube."
+                },
+                {
+                    "gps": [
+                        48.0347,
+                        8.9424
+                    ],
+                    "url": "IMG_0847.jpg",
+                    "description": "Gravel/dirt detour because of some road works."
+                },
+                {
+                    "gps": [
+                        48.3953,
+                        9.9926
+                    ],
+                    "url": "IMG_0856.jpg",
+                    "description": "Arriving to Ulm."
+                }
+            ],
+            "title": "Zurich - Ulm by the Danube",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "vienna_trip",
+            "stravaId": 11056467387
+        },
+        {
             "tripId": "day2",
             "date": "2024-03-29",
             "gpxUrl": "ride.gpx",
@@ -1731,121 +1401,39 @@
         },
         {
             "tripId": "day1",
-            "date": "2024-03-28",
-            "gpxUrl": "ride.gpx",
-            "compressedGpxUrl": "ride_compressed.gpx",
+            "date": "2024-03-01",
+            "gpxUrl": "Lunch_Ride.gpx",
             "images": [
                 {
                     "gps": [
-                        47.9519,
-                        8.5026
+                        41.2362,
+                        1.8147
                     ],
-                    "url": "IMG_0837.jpg",
-                    "description": "The source of the Danube."
+                    "url": "IMG_0574.jpg",
+                    "description": "Mandatory bike picture in Sitges, after lunch."
                 },
                 {
                     "gps": [
-                        48.2502,
-                        9.7206
+                        41.2588,
+                        1.9182
                     ],
-                    "url": "IMG_0855.jpg",
-                    "description": "Being happy after the crash, that my fingers are intact."
+                    "url": "IMG_0564.jpg",
+                    "description": "Beach view from a Mirador."
                 },
                 {
                     "gps": [
-                        48.089,
-                        9.1085
+                        41.3779,
+                        1.8088
                     ],
-                    "url": "IMG_0848.jpg",
-                    "description": "Cute little Danube."
-                },
-                {
-                    "gps": [
-                        48.0347,
-                        8.9424
-                    ],
-                    "url": "IMG_0847.jpg",
-                    "description": "Gravel/dirt detour because of some road works."
-                },
-                {
-                    "gps": [
-                        48.3953,
-                        9.9926
-                    ],
-                    "url": "IMG_0856.jpg",
-                    "description": "Arriving to Ulm."
+                    "url": "IMG_0576.jpg",
+                    "description": "Snacking and flying through some empty roads."
                 }
             ],
-            "title": "Zurich - Ulm by the Danube",
+            "title": "Lunch Ride in Barcelona 2024-03-01",
             "activity": "ride",
             "day": 1,
-            "journeyId": "vienna_trip",
-            "stravaId": 11056467387
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-10-13",
-            "gpxUrl": "hvar_1.gpx",
-            "compressedGpxUrl": "hvar_1_compressed.gpx",
-            "images": [],
-            "title": "Hvar ride 1",
-            "activity": "ride",
-            "day": 1,
-            "training": true,
-            "journeyId": "hvar2023",
-            "stravaId": 10031916172
-        },
-        {
-            "tripId": "day4",
-            "date": "2023-10-13",
-            "gpxUrl": "hvar_2.gpx",
-            "compressedGpxUrl": "hvar_2_compressed.gpx",
-            "images": [],
-            "title": "2nd Ride in Hvar",
-            "activity": "ride",
-            "day": 4,
-            "journeyId": "hvar2023",
-            "training": true,
-            "stravaId": 10031916172
-        },
-        {
-            "tripId": "day1",
-            "date": "2023-05-28",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Ride to Liechtenstein",
-            "activity": "ride",
-            "day": 1,
-            "journeyId": "liechtenstein2023",
-            "training": true,
-            "stravaId": 9155876520
-        },
-        {
-            "tripId": "day2",
-            "date": "2023-05-29",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Ride back from Liechtenstein",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "liechtenstein2023",
-            "training": true,
-            "stravaId": 9164852042
-        },
-        {
-            "tripId": "day2",
-            "date": "2022-10-30",
-            "gpxUrl": "ride",
-            "compressedGpxUrl": "ride_compressed.gpx",
-            "images": [],
-            "title": "Mountain scooter :D",
-            "activity": "ride",
-            "day": 2,
-            "journeyId": "gemmipass2022",
-            "training": true,
-            "stravaId": 8043245754
+            "journeyId": "barcelona2024",
+            "stravaId": 10868461076
         },
         {
             "tripId": "day2",
@@ -1913,509 +1501,478 @@
         },
         {
             "tripId": "day1",
-            "date": "2024-03-01",
-            "gpxUrl": "Lunch_Ride.gpx",
+            "date": "2023-10-13",
+            "gpxUrl": "hvar_1.gpx",
+            "compressedGpxUrl": "hvar_1_compressed.gpx",
+            "images": [],
+            "title": "Hvar ride 1",
+            "activity": "ride",
+            "day": 1,
+            "training": true,
+            "journeyId": "hvar2023",
+            "stravaId": 10031916172
+        },
+        {
+            "tripId": "day4",
+            "date": "2023-10-13",
+            "gpxUrl": "hvar_2.gpx",
+            "compressedGpxUrl": "hvar_2_compressed.gpx",
+            "images": [],
+            "title": "2nd Ride in Hvar",
+            "activity": "ride",
+            "day": 4,
+            "journeyId": "hvar2023",
+            "training": true,
+            "stravaId": 10031916172
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-09-09",
+            "gpxUrl": "sargans_stmoritz.gpx",
+            "compressedGpxUrl": "sargans_stmoritz_compressed.gpx",
+            "images": [],
+            "title": "Sargans to St. Moritz",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "davos_stmoritz_como",
+            "training": true,
+            "stravaId": 9815588466
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-09-10",
+            "gpxUrl": "stmoritz_como",
+            "compressedGpxUrl": "stmoritz_como_compressed.gpx",
+            "images": [],
+            "title": "Riding from St Moritz to the edge of lake Como",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "davos_stmoritz_como",
+            "training": true,
+            "stravaId": 9823417323
+        },
+        {
+            "tripId": "day3",
+            "date": "2023-09-11",
+            "gpxUrl": "como.gpx",
+            "compressedGpxUrl": "como_compressed.gpx",
+            "images": [],
+            "title": "Riding around lake Como",
+            "activity": "ride",
+            "day": 3,
+            "journeyId": "davos_stmoritz_como",
+            "training": true,
+            "stravaId": 9828470661
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-08-13",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Martigny - Chamonix",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "chamonix2023",
+            "training": true,
+            "stravaId": 9638506916
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-08-12",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Zurich - Martigny",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "chamonix2023",
+            "training": true,
+            "stravaId": 9634879224
+        },
+        {
+            "tripId": "day7",
+            "date": "2023-08-18",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Chamonix - Beaufort",
+            "activity": "ride",
+            "day": 7,
+            "journeyId": "chamonix2023",
+            "training": true,
+            "stravaId": 9673314717
+        },
+        {
+            "tripId": "day8",
+            "date": "2023-08-19",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Beaufort - Courmayeur",
+            "activity": "ride",
+            "day": 8,
+            "journeyId": "chamonix2023",
+            "training": true,
+            "stravaId": 9680657551
+        },
+        {
+            "tripId": "day9",
+            "date": "2023-08-20",
+            "gpxUrl": "ride.gpx",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Courmayeur - Martigny",
+            "activity": "ride",
+            "day": 9,
+            "journeyId": "chamonix2023",
+            "training": true,
+            "stravaId": 9686004711
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-05-28",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride to Liechtenstein",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "liechtenstein2023",
+            "training": true,
+            "stravaId": 9155876520
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-05-29",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride back from Liechtenstein",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "liechtenstein2023",
+            "training": true,
+            "stravaId": 9164852042
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-05-18",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Zurichsee - Dornbirn",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "rhein2023",
+            "training": true,
+            "stravaId": 9095557324
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-05-19",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Dornbirn - Waldshut",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "rhein2023",
+            "training": true,
+            "stravaId": 9101595140
+        },
+        {
+            "tripId": "day3",
+            "date": "2023-05-20",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Waldshut - Strasbourg",
+            "activity": "ride",
+            "day": 3,
+            "journeyId": "rhein2023",
+            "training": true,
+            "stravaId": 9108142045
+        },
+        {
+            "tripId": "day4",
+            "date": "2023-05-21",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Ride into Strasbourg",
+            "activity": "ride",
+            "day": 4,
+            "journeyId": "rhein2023",
+            "training": true,
+            "stravaId": 9113070466
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-04-07",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "St. Gallen - Freienbach",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "easter2023",
+            "training": true,
+            "stravaId": 8848970600
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-04-08",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Freienbach - Malters",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "easter2023",
+            "training": true,
+            "stravaId": 8855645128
+        },
+        {
+            "tripId": "day3",
+            "date": "2023-04-09",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Malters - Biel",
+            "activity": "ride",
+            "day": 3,
+            "journeyId": "easter2023",
+            "training": true,
+            "stravaId": 8861107510
+        },
+        {
+            "tripId": "day4",
+            "date": "2023-04-10",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Biel - Basel",
+            "activity": "ride",
+            "day": 4,
+            "journeyId": "easter2023",
+            "training": true,
+            "stravaId": 8866028636
+        },
+        {
+            "tripId": "day6",
+            "date": "2022-11-10",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Teide from South",
+            "activity": "ride",
+            "day": 6,
+            "journeyId": "tenerife2022",
+            "training": true,
+            "stravaId": 8097542675
+        },
+        {
+            "tripId": "day3",
+            "date": "2022-11-07",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Teide from North",
+            "activity": "ride",
+            "day": 3,
+            "journeyId": "tenerife2022",
+            "training": true,
+            "stravaId": 8082964381
+        },
+        {
+            "tripId": "day2",
+            "date": "2022-10-30",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Mountain scooter :D",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "gemmipass2022",
+            "training": true,
+            "stravaId": 8043245754
+        },
+        {
+            "tripId": "day1",
+            "date": "2023-07-30",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Gotthard Pass: Altdorf - Biasca",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "gotthard2022",
+            "training": true,
+            "stravaId": 9550671254
+        },
+        {
+            "tripId": "day2",
+            "date": "2023-07-31",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Biasca - Chiasso",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "gotthard2022",
+            "training": true,
+            "stravaId": 9556461525
+        },
+        {
+            "tripId": "day1",
+            "date": "2022-07-16",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Freienbach - Horw",
+            "activity": "ride",
+            "day": 1,
+            "journeyId": "summer2022",
+            "training": true,
+            "stravaId": 7478794053
+        },
+        {
+            "tripId": "day2",
+            "date": "2022-07-17",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Horw - Spiez",
+            "activity": "ride",
+            "day": 2,
+            "journeyId": "summer2022",
+            "training": true,
+            "stravaId": 7485404888
+        },
+        {
+            "tripId": "day4",
+            "date": "2022-07-19",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Merligen - Chateau d'oex",
+            "activity": "ride",
+            "day": 4,
+            "journeyId": "summer2022",
+            "training": true,
+            "stravaId": 7494817307
+        },
+        {
+            "tripId": "day5",
+            "date": "2022-07-20",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Chateau d'oex - Meillerie",
+            "activity": "ride",
+            "day": 5,
+            "journeyId": "summer2022",
+            "training": true,
+            "stravaId": 7500044340
+        },
+        {
+            "tripId": "day6",
+            "date": "2022-07-21",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Meillerie - Geneva",
+            "activity": "ride",
+            "day": 6,
+            "journeyId": "summer2022",
+            "training": true,
+            "stravaId": 7504576008
+        },
+        {
+            "tripId": "day7",
+            "date": "2022-07-22",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Geneva - Lausanne",
+            "activity": "ride",
+            "day": 7,
+            "journeyId": "summer2022",
+            "training": true,
+            "stravaId": 7509553506
+        },
+        {
+            "tripId": "day8",
+            "date": "2022-07-23",
+            "gpxUrl": "ride",
+            "compressedGpxUrl": "ride_compressed.gpx",
+            "images": [],
+            "title": "Lausanne vineyards",
+            "activity": "ride",
+            "day": 8,
+            "journeyId": "summer2022",
+            "training": true,
+            "stravaId": 7515621249
+        },
+        {
+            "day": 1,
+            "stravaId": 11306871707,
+            "training": false,
+            "gpxUrl": "original.gpx",
+            "compressedGpxUrl": "compressed.gpx",
+            "date": "2024-05-01",
+            "activity": "ride",
             "images": [
                 {
                     "gps": [
-                        41.2362,
-                        1.8147
+                        48.07430277777778,
+                        7.3596305555555555
                     ],
-                    "url": "IMG_0574.jpg",
-                    "description": "Mandatory bike picture in Sitges, after lunch."
-                },
-                {
-                    "gps": [
-                        41.2588,
-                        1.9182
-                    ],
-                    "url": "IMG_0564.jpg",
-                    "description": "Beach view from a Mirador."
-                },
-                {
-                    "gps": [
-                        41.3779,
-                        1.8088
-                    ],
-                    "url": "IMG_0576.jpg",
-                    "description": "Snacking and flying through some empty roads."
+                    "url": "img_0.jpg",
+                    "description": "Mandatory bike pic in the beautiful Colmar"
                 }
             ],
-            "title": "Lunch Ride in Barcelona 2024-03-01",
+            "distance": 75003,
+            "elevation": 114,
+            "tripId": "ride_20240501",
+            "journeyId": "cycling_dates",
+            "title": "First date to Colmar"
+        },
+        {
+            "day": 2,
+            "stravaId": 11386848327,
+            "training": false,
+            "gpxUrl": "original.gpx",
+            "compressedGpxUrl": "compressed.gpx",
+            "date": "2024-05-11",
             "activity": "ride",
-            "day": 1,
-            "journeyId": "barcelona2024",
-            "stravaId": 10868461076
+            "images": [
+                {
+                    "gps": [
+                        46.17610833333333,
+                        8.695611111111111
+                    ],
+                    "url": "img_0.jpg",
+                    "description": "Ticino Views"
+                },
+                {
+                    "gps": [
+                        46.062980555555555,
+                        8.700155555555554
+                    ],
+                    "url": "img_1.jpg",
+                    "description": "Buongiorno"
+                }
+            ],
+            "distance": 74266.7,
+            "elevation": 998,
+            "tripId": "ride_20240511",
+            "title": "Cycling Date In Ticino / Italy",
+            "journeyId": "cycling_dates"
         }
     ],
     "journeys": [
-        {
-            "title": "Chamonix trip",
-            "tripIds": [
-                "day1",
-                "day2",
-                "day7",
-                "day8",
-                "day9"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-08-12",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Zurich - Martigny",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "chamonix2023",
-                    "training": true,
-                    "stravaId": 9634879224
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2023-08-13",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Martigny - Chamonix",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "chamonix2023",
-                    "training": true,
-                    "stravaId": 9638506916
-                },
-                {
-                    "tripId": "day7",
-                    "date": "2023-08-18",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Chamonix - Beaufort",
-                    "activity": "ride",
-                    "day": 7,
-                    "journeyId": "chamonix2023",
-                    "training": true,
-                    "stravaId": 9673314717
-                },
-                {
-                    "tripId": "day8",
-                    "date": "2023-08-19",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Beaufort - Courmayeur",
-                    "activity": "ride",
-                    "day": 8,
-                    "journeyId": "chamonix2023",
-                    "training": true,
-                    "stravaId": 9680657551
-                },
-                {
-                    "tripId": "day9",
-                    "date": "2023-08-20",
-                    "gpxUrl": "ride.gpx",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Courmayeur - Martigny",
-                    "activity": "ride",
-                    "day": 9,
-                    "journeyId": "chamonix2023",
-                    "training": true,
-                    "stravaId": 9686004711
-                }
-            ]
-        },
-        {
-            "trips": [
-                {
-                    "day": 2,
-                    "stravaId": 11386848327,
-                    "training": false,
-                    "gpxUrl": "original.gpx",
-                    "compressedGpxUrl": "compressed.gpx",
-                    "date": "2024-05-11",
-                    "activity": "ride",
-                    "images": [
-                        {
-                            "gps": [
-                                46.17610833333333,
-                                8.695611111111111
-                            ],
-                            "url": "img_0.jpg",
-                            "description": "Ticino Views"
-                        },
-                        {
-                            "gps": [
-                                46.062980555555555,
-                                8.700155555555554
-                            ],
-                            "url": "img_1.jpg",
-                            "description": "Buongiorno"
-                        }
-                    ],
-                    "distance": 74266.7,
-                    "elevation": 998,
-                    "tripId": "ride_20240511",
-                    "title": "Cycling Date In Ticino / Italy",
-                    "journeyId": "cycling_dates"
-                }
-            ],
-            "title": "Cycling Dates",
-            "tripIds": [
-                "ride_20240511"
-            ]
-        },
-        {
-            "title": "Rhein trip",
-            "tripIds": [
-                "day1",
-                "day2",
-                "day3",
-                "day4"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-04-07",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "St. Gallen - Freienbach",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "easter2023",
-                    "training": true,
-                    "stravaId": 8848970600
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2023-04-08",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Freienbach - Malters",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "easter2023",
-                    "training": true,
-                    "stravaId": 8855645128
-                },
-                {
-                    "tripId": "day3",
-                    "date": "2023-04-09",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Malters - Biel",
-                    "activity": "ride",
-                    "day": 3,
-                    "journeyId": "easter2023",
-                    "training": true,
-                    "stravaId": 8861107510
-                },
-                {
-                    "tripId": "day4",
-                    "date": "2023-04-10",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Biel - Basel",
-                    "activity": "ride",
-                    "day": 4,
-                    "journeyId": "easter2023",
-                    "training": true,
-                    "stravaId": 8866028636
-                }
-            ]
-        },
-        {
-            "title": "Gotthard Pass weekend",
-            "tripIds": [
-                "day1",
-                "day2"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-07-30",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Gotthard Pass: Altdorf - Biasca",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "gotthard2022",
-                    "training": true,
-                    "stravaId": 9550671254
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2023-07-31",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Biasca - Chiasso",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "gotthard2022",
-                    "training": true,
-                    "stravaId": 9556461525
-                }
-            ]
-        },
-        {
-            "title": "Rhein trip",
-            "tripIds": [
-                "day1",
-                "day2",
-                "day3",
-                "day4"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-05-18",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Zurichsee - Dornbirn",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "rhein2023",
-                    "training": true,
-                    "stravaId": 9095557324
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2023-05-19",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Dornbirn - Waldshut",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "rhein2023",
-                    "training": true,
-                    "stravaId": 9101595140
-                },
-                {
-                    "tripId": "day3",
-                    "date": "2023-05-20",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Waldshut - Strasbourg",
-                    "activity": "ride",
-                    "day": 3,
-                    "journeyId": "rhein2023",
-                    "training": true,
-                    "stravaId": 9108142045
-                },
-                {
-                    "tripId": "day4",
-                    "date": "2023-05-21",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Ride into Strasbourg",
-                    "activity": "ride",
-                    "day": 4,
-                    "journeyId": "rhein2023",
-                    "training": true,
-                    "stravaId": 9113070466
-                }
-            ]
-        },
-        {
-            "title": "Davos - St. Moritz - Como",
-            "tripIds": [
-                "day1",
-                "day2",
-                "day3"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-09-09",
-                    "gpxUrl": "sargans_stmoritz.gpx",
-                    "compressedGpxUrl": "sargans_stmoritz_compressed.gpx",
-                    "images": [],
-                    "title": "Sargans to St. Moritz",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "davos_stmoritz_como",
-                    "training": true,
-                    "stravaId": 9815588466
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2023-09-10",
-                    "gpxUrl": "stmoritz_como",
-                    "compressedGpxUrl": "stmoritz_como_compressed.gpx",
-                    "images": [],
-                    "title": "Riding from St Moritz to the edge of lake Como",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "davos_stmoritz_como",
-                    "training": true,
-                    "stravaId": 9823417323
-                },
-                {
-                    "tripId": "day3",
-                    "date": "2023-09-11",
-                    "gpxUrl": "como.gpx",
-                    "compressedGpxUrl": "como_compressed.gpx",
-                    "images": [],
-                    "title": "Riding around lake Como",
-                    "activity": "ride",
-                    "day": 3,
-                    "journeyId": "davos_stmoritz_como",
-                    "training": true,
-                    "stravaId": 9828470661
-                }
-            ]
-        },
-        {
-            "title": "Cross Switzerland trip 2022",
-            "tripIds": [
-                "day1",
-                "day2",
-                "day4",
-                "day5",
-                "day6",
-                "day7",
-                "day8"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2022-07-16",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Freienbach - Horw",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "summer2022",
-                    "training": true,
-                    "stravaId": 7478794053
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2022-07-17",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Horw - Spiez",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "summer2022",
-                    "training": true,
-                    "stravaId": 7485404888
-                },
-                {
-                    "tripId": "day4",
-                    "date": "2022-07-19",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Merligen - Chateau d'oex",
-                    "activity": "ride",
-                    "day": 4,
-                    "journeyId": "summer2022",
-                    "training": true,
-                    "stravaId": 7494817307
-                },
-                {
-                    "tripId": "day5",
-                    "date": "2022-07-20",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Chateau d'oex - Meillerie",
-                    "activity": "ride",
-                    "day": 5,
-                    "journeyId": "summer2022",
-                    "training": true,
-                    "stravaId": 7500044340
-                },
-                {
-                    "tripId": "day6",
-                    "date": "2022-07-21",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Meillerie - Geneva",
-                    "activity": "ride",
-                    "day": 6,
-                    "journeyId": "summer2022",
-                    "training": true,
-                    "stravaId": 7504576008
-                },
-                {
-                    "tripId": "day7",
-                    "date": "2022-07-22",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Geneva - Lausanne",
-                    "activity": "ride",
-                    "day": 7,
-                    "journeyId": "summer2022",
-                    "training": true,
-                    "stravaId": 7509553506
-                },
-                {
-                    "tripId": "day8",
-                    "date": "2022-07-23",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Lausanne vineyards",
-                    "activity": "ride",
-                    "day": 8,
-                    "journeyId": "summer2022",
-                    "training": true,
-                    "stravaId": 7515621249
-                }
-            ]
-        },
-        {
-            "title": "Tenerife trip",
-            "tripIds": [
-                "day3",
-                "day6"
-            ],
-            "trips": [
-                {
-                    "tripId": "day3",
-                    "date": "2022-11-07",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Teide from North",
-                    "activity": "ride",
-                    "day": 3,
-                    "journeyId": "tenerife2022",
-                    "training": true,
-                    "stravaId": 8082964381
-                },
-                {
-                    "tripId": "day6",
-                    "date": "2022-11-10",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Teide from South",
-                    "activity": "ride",
-                    "day": 6,
-                    "journeyId": "tenerife2022",
-                    "training": true,
-                    "stravaId": 8097542675
-                }
-            ]
-        },
         {
             "title": "madeira 2024",
             "tripIds": [
@@ -2957,97 +2514,6 @@
             ]
         },
         {
-            "title": "Hvar Trip",
-            "tripIds": [
-                "day1",
-                "day4"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-10-13",
-                    "gpxUrl": "hvar_1.gpx",
-                    "compressedGpxUrl": "hvar_1_compressed.gpx",
-                    "images": [],
-                    "title": "Hvar ride 1",
-                    "activity": "ride",
-                    "day": 1,
-                    "training": true,
-                    "journeyId": "hvar2023",
-                    "stravaId": 10031916172
-                },
-                {
-                    "tripId": "day4",
-                    "date": "2023-10-13",
-                    "gpxUrl": "hvar_2.gpx",
-                    "compressedGpxUrl": "hvar_2_compressed.gpx",
-                    "images": [],
-                    "title": "2nd Ride in Hvar",
-                    "activity": "ride",
-                    "day": 4,
-                    "journeyId": "hvar2023",
-                    "training": true,
-                    "stravaId": 10031916172
-                }
-            ]
-        },
-        {
-            "title": "Liechtenstein trip",
-            "tripIds": [
-                "day1",
-                "day2"
-            ],
-            "trips": [
-                {
-                    "tripId": "day1",
-                    "date": "2023-05-28",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Ride to Liechtenstein",
-                    "activity": "ride",
-                    "day": 1,
-                    "journeyId": "liechtenstein2023",
-                    "training": true,
-                    "stravaId": 9155876520
-                },
-                {
-                    "tripId": "day2",
-                    "date": "2023-05-29",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Ride back from Liechtenstein",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "liechtenstein2023",
-                    "training": true,
-                    "stravaId": 9164852042
-                }
-            ]
-        },
-        {
-            "title": "Gemmipass weekend",
-            "tripIds": [
-                "day2"
-            ],
-            "trips": [
-                {
-                    "tripId": "day2",
-                    "date": "2022-10-30",
-                    "gpxUrl": "ride",
-                    "compressedGpxUrl": "ride_compressed.gpx",
-                    "images": [],
-                    "title": "Mountain scooter :D",
-                    "activity": "ride",
-                    "day": 2,
-                    "journeyId": "gemmipass2022",
-                    "training": true,
-                    "stravaId": 8043245754
-                }
-            ]
-        },
-        {
             "title": "Barcelona trip 2024",
             "tripIds": [
                 "day1",
@@ -3157,6 +2623,589 @@
                     "journeyId": "barcelona2024",
                     "stravaId": 10883305043
                 }
+            ]
+        },
+        {
+            "title": "Hvar Trip",
+            "tripIds": [
+                "day1",
+                "day4"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-10-13",
+                    "gpxUrl": "hvar_1.gpx",
+                    "compressedGpxUrl": "hvar_1_compressed.gpx",
+                    "images": [],
+                    "title": "Hvar ride 1",
+                    "activity": "ride",
+                    "day": 1,
+                    "training": true,
+                    "journeyId": "hvar2023",
+                    "stravaId": 10031916172
+                },
+                {
+                    "tripId": "day4",
+                    "date": "2023-10-13",
+                    "gpxUrl": "hvar_2.gpx",
+                    "compressedGpxUrl": "hvar_2_compressed.gpx",
+                    "images": [],
+                    "title": "2nd Ride in Hvar",
+                    "activity": "ride",
+                    "day": 4,
+                    "journeyId": "hvar2023",
+                    "training": true,
+                    "stravaId": 10031916172
+                }
+            ]
+        },
+        {
+            "title": "Davos - St. Moritz - Como",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day3"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-09-09",
+                    "gpxUrl": "sargans_stmoritz.gpx",
+                    "compressedGpxUrl": "sargans_stmoritz_compressed.gpx",
+                    "images": [],
+                    "title": "Sargans to St. Moritz",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "davos_stmoritz_como",
+                    "training": true,
+                    "stravaId": 9815588466
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-09-10",
+                    "gpxUrl": "stmoritz_como",
+                    "compressedGpxUrl": "stmoritz_como_compressed.gpx",
+                    "images": [],
+                    "title": "Riding from St Moritz to the edge of lake Como",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "davos_stmoritz_como",
+                    "training": true,
+                    "stravaId": 9823417323
+                },
+                {
+                    "tripId": "day3",
+                    "date": "2023-09-11",
+                    "gpxUrl": "como.gpx",
+                    "compressedGpxUrl": "como_compressed.gpx",
+                    "images": [],
+                    "title": "Riding around lake Como",
+                    "activity": "ride",
+                    "day": 3,
+                    "journeyId": "davos_stmoritz_como",
+                    "training": true,
+                    "stravaId": 9828470661
+                }
+            ]
+        },
+        {
+            "title": "Chamonix trip",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day7",
+                "day8",
+                "day9"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-08-12",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Zurich - Martigny",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "chamonix2023",
+                    "training": true,
+                    "stravaId": 9634879224
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-08-13",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Martigny - Chamonix",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "chamonix2023",
+                    "training": true,
+                    "stravaId": 9638506916
+                },
+                {
+                    "tripId": "day7",
+                    "date": "2023-08-18",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Chamonix - Beaufort",
+                    "activity": "ride",
+                    "day": 7,
+                    "journeyId": "chamonix2023",
+                    "training": true,
+                    "stravaId": 9673314717
+                },
+                {
+                    "tripId": "day8",
+                    "date": "2023-08-19",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Beaufort - Courmayeur",
+                    "activity": "ride",
+                    "day": 8,
+                    "journeyId": "chamonix2023",
+                    "training": true,
+                    "stravaId": 9680657551
+                },
+                {
+                    "tripId": "day9",
+                    "date": "2023-08-20",
+                    "gpxUrl": "ride.gpx",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Courmayeur - Martigny",
+                    "activity": "ride",
+                    "day": 9,
+                    "journeyId": "chamonix2023",
+                    "training": true,
+                    "stravaId": 9686004711
+                }
+            ]
+        },
+        {
+            "title": "Liechtenstein trip",
+            "tripIds": [
+                "day1",
+                "day2"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-05-28",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Ride to Liechtenstein",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "liechtenstein2023",
+                    "training": true,
+                    "stravaId": 9155876520
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-05-29",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Ride back from Liechtenstein",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "liechtenstein2023",
+                    "training": true,
+                    "stravaId": 9164852042
+                }
+            ]
+        },
+        {
+            "title": "Rhein trip",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day3",
+                "day4"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-05-18",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Zurichsee - Dornbirn",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "rhein2023",
+                    "training": true,
+                    "stravaId": 9095557324
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-05-19",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Dornbirn - Waldshut",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "rhein2023",
+                    "training": true,
+                    "stravaId": 9101595140
+                },
+                {
+                    "tripId": "day3",
+                    "date": "2023-05-20",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Waldshut - Strasbourg",
+                    "activity": "ride",
+                    "day": 3,
+                    "journeyId": "rhein2023",
+                    "training": true,
+                    "stravaId": 9108142045
+                },
+                {
+                    "tripId": "day4",
+                    "date": "2023-05-21",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Ride into Strasbourg",
+                    "activity": "ride",
+                    "day": 4,
+                    "journeyId": "rhein2023",
+                    "training": true,
+                    "stravaId": 9113070466
+                }
+            ]
+        },
+        {
+            "title": "Rhein trip",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day3",
+                "day4"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-04-07",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "St. Gallen - Freienbach",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "easter2023",
+                    "training": true,
+                    "stravaId": 8848970600
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-04-08",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Freienbach - Malters",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "easter2023",
+                    "training": true,
+                    "stravaId": 8855645128
+                },
+                {
+                    "tripId": "day3",
+                    "date": "2023-04-09",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Malters - Biel",
+                    "activity": "ride",
+                    "day": 3,
+                    "journeyId": "easter2023",
+                    "training": true,
+                    "stravaId": 8861107510
+                },
+                {
+                    "tripId": "day4",
+                    "date": "2023-04-10",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Biel - Basel",
+                    "activity": "ride",
+                    "day": 4,
+                    "journeyId": "easter2023",
+                    "training": true,
+                    "stravaId": 8866028636
+                }
+            ]
+        },
+        {
+            "title": "Tenerife trip",
+            "tripIds": [
+                "day3",
+                "day6"
+            ],
+            "trips": [
+                {
+                    "tripId": "day3",
+                    "date": "2022-11-07",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Teide from North",
+                    "activity": "ride",
+                    "day": 3,
+                    "journeyId": "tenerife2022",
+                    "training": true,
+                    "stravaId": 8082964381
+                },
+                {
+                    "tripId": "day6",
+                    "date": "2022-11-10",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Teide from South",
+                    "activity": "ride",
+                    "day": 6,
+                    "journeyId": "tenerife2022",
+                    "training": true,
+                    "stravaId": 8097542675
+                }
+            ]
+        },
+        {
+            "title": "Gemmipass weekend",
+            "tripIds": [
+                "day2"
+            ],
+            "trips": [
+                {
+                    "tripId": "day2",
+                    "date": "2022-10-30",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Mountain scooter :D",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "gemmipass2022",
+                    "training": true,
+                    "stravaId": 8043245754
+                }
+            ]
+        },
+        {
+            "title": "Gotthard Pass weekend",
+            "tripIds": [
+                "day1",
+                "day2"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2023-07-30",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Gotthard Pass: Altdorf - Biasca",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "gotthard2022",
+                    "training": true,
+                    "stravaId": 9550671254
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2023-07-31",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Biasca - Chiasso",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "gotthard2022",
+                    "training": true,
+                    "stravaId": 9556461525
+                }
+            ]
+        },
+        {
+            "title": "Cross Switzerland trip 2022",
+            "tripIds": [
+                "day1",
+                "day2",
+                "day4",
+                "day5",
+                "day6",
+                "day7",
+                "day8"
+            ],
+            "trips": [
+                {
+                    "tripId": "day1",
+                    "date": "2022-07-16",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Freienbach - Horw",
+                    "activity": "ride",
+                    "day": 1,
+                    "journeyId": "summer2022",
+                    "training": true,
+                    "stravaId": 7478794053
+                },
+                {
+                    "tripId": "day2",
+                    "date": "2022-07-17",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Horw - Spiez",
+                    "activity": "ride",
+                    "day": 2,
+                    "journeyId": "summer2022",
+                    "training": true,
+                    "stravaId": 7485404888
+                },
+                {
+                    "tripId": "day4",
+                    "date": "2022-07-19",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Merligen - Chateau d'oex",
+                    "activity": "ride",
+                    "day": 4,
+                    "journeyId": "summer2022",
+                    "training": true,
+                    "stravaId": 7494817307
+                },
+                {
+                    "tripId": "day5",
+                    "date": "2022-07-20",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Chateau d'oex - Meillerie",
+                    "activity": "ride",
+                    "day": 5,
+                    "journeyId": "summer2022",
+                    "training": true,
+                    "stravaId": 7500044340
+                },
+                {
+                    "tripId": "day6",
+                    "date": "2022-07-21",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Meillerie - Geneva",
+                    "activity": "ride",
+                    "day": 6,
+                    "journeyId": "summer2022",
+                    "training": true,
+                    "stravaId": 7504576008
+                },
+                {
+                    "tripId": "day7",
+                    "date": "2022-07-22",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Geneva - Lausanne",
+                    "activity": "ride",
+                    "day": 7,
+                    "journeyId": "summer2022",
+                    "training": true,
+                    "stravaId": 7509553506
+                },
+                {
+                    "tripId": "day8",
+                    "date": "2022-07-23",
+                    "gpxUrl": "ride",
+                    "compressedGpxUrl": "ride_compressed.gpx",
+                    "images": [],
+                    "title": "Lausanne vineyards",
+                    "activity": "ride",
+                    "day": 8,
+                    "journeyId": "summer2022",
+                    "training": true,
+                    "stravaId": 7515621249
+                }
+            ]
+        },
+        {
+            "trips": [
+                {
+                    "day": 1,
+                    "stravaId": 11306871707,
+                    "training": false,
+                    "gpxUrl": "original.gpx",
+                    "compressedGpxUrl": "compressed.gpx",
+                    "date": "2024-05-01",
+                    "activity": "ride",
+                    "images": [
+                        {
+                            "gps": [
+                                48.07430277777778,
+                                7.3596305555555555
+                            ],
+                            "url": "img_0.jpg",
+                            "description": "Mandatory bike pic in the beautiful Colmar"
+                        }
+                    ],
+                    "distance": 75003,
+                    "elevation": 114,
+                    "tripId": "ride_20240501",
+                    "journeyId": "cycling_dates",
+                    "title": "First date to Colmar"
+                },
+                {
+                    "day": 2,
+                    "stravaId": 11386848327,
+                    "training": false,
+                    "gpxUrl": "original.gpx",
+                    "compressedGpxUrl": "compressed.gpx",
+                    "date": "2024-05-11",
+                    "activity": "ride",
+                    "images": [
+                        {
+                            "gps": [
+                                46.17610833333333,
+                                8.695611111111111
+                            ],
+                            "url": "img_0.jpg",
+                            "description": "Ticino Views"
+                        },
+                        {
+                            "gps": [
+                                46.062980555555555,
+                                8.700155555555554
+                            ],
+                            "url": "img_1.jpg",
+                            "description": "Buongiorno"
+                        }
+                    ],
+                    "distance": 74266.7,
+                    "elevation": 998,
+                    "tripId": "ride_20240511",
+                    "title": "Cycling Date In Ticino / Italy",
+                    "journeyId": "cycling_dates"
+                }
+            ],
+            "title": "Cycling Dates",
+            "tripIds": [
+                "ride_20240511",
+                "ride_20240501"
             ]
         }
     ],
