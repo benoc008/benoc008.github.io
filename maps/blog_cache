@@ -2028,6 +2028,35 @@
       "elevation": 175,
       "tripId": "ride_20240627",
       "title": "Ride to Labdoo"
+    },
+    {
+      "day": 0,
+      "stravaId": 11749842650,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-06-27",
+      "activity": "ride",
+      "images": [],
+      "distance": 29124.2,
+      "elevation": 274,
+      "tripId": "ride_20240627",
+      "title": "Labdoo Morning commute"
+    },
+    {
+      "day": 0,
+      "stravaId": 11832173804,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-07-07",
+      "activity": "run",
+      "images": [],
+      "distance": 42349.9,
+      "elevation": 51,
+      "tripId": "run_20240707",
+      "journeyId": "ironman_thun_2024",
+      "title": "Ironman Thun Run"
     }
   ],
   "journeys": [
@@ -3303,6 +3332,29 @@
       "tripIds": [
         "ride_20240616",
         "run_20240616"
+      ]
+    },
+    {
+      "trips": [
+        {
+          "day": 0,
+          "stravaId": 11832173804,
+          "training": true,
+          "gpxUrl": "original.gpx",
+          "compressedGpxUrl": "compressed.gpx",
+          "date": "2024-07-07",
+          "activity": "run",
+          "images": [],
+          "distance": 42349.9,
+          "elevation": 51,
+          "tripId": "run_20240707",
+          "journeyId": "ironman_thun_2024",
+          "title": "Ironman Thun Run"
+        }
+      ],
+      "title": "Ironman Thun 2024",
+      "tripIds": [
+        "run_20240707"
       ]
     }
   ],

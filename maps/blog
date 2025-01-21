@@ -58,6 +58,7 @@
     "ride_20240518",
     "ride_20240526",
     "ride_20240623",
+    "ride_20240627",
     "ride_20240627"
   ],
   "journeyIds": [
@@ -75,7 +76,8 @@
     "gotthard2022",
     "summer2022",
     "cycling_dates",
-    "zytturm_triathlon_2024"
+    "zytturm_triathlon_2024",
+    "ironman_thun_2024"
   ],
   "latestIds": [
     "vienna_trip/day4",

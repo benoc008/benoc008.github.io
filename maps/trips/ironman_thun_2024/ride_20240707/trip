@@ -1,0 +1,15 @@
+{
+  "day": 2,
+  "stravaId": 11833505839,
+  "training": false,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-07-07",
+  "activity": "ride",
+  "images": [],
+  "distance": 178576,
+  "elevation": 2019,
+  "tripId": "ride_20240707",
+  "journeyId": "ironman_thun_2024",
+  "title": "Ironman Thun Bike"
+}

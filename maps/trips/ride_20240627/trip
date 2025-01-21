@@ -1,14 +1,14 @@
 {
   "day": 0,
-  "stravaId": 11752780924,
+  "stravaId": 11749842650,
   "training": true,
   "gpxUrl": "original.gpx",
   "compressedGpxUrl": "compressed.gpx",
   "date": "2024-06-27",
   "activity": "ride",
   "images": [],
-  "distance": 22188.9,
-  "elevation": 175,
+  "distance": 29124.2,
+  "elevation": 274,
   "tripId": "ride_20240627",
-  "title": "Ride to Labdoo"
+  "title": "Labdoo Morning commute"
 }
