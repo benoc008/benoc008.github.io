@@ -1,0 +1,21 @@
+{
+  "day": 0,
+  "stravaId": 11720370017,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-06-23",
+  "activity": "ride",
+  "images": [{
+                   "gps": [
+                     47.351057,
+                     8.534540
+                   ],
+                   "url": "18737876_orig.jpg",
+                   "description": "Am I aero?"
+                 }],
+  "distance": 37965.4,
+  "elevation": 85,
+  "tripId": "ride_20240623",
+  "title": "Zurich Tri Relay - Bike"
+}

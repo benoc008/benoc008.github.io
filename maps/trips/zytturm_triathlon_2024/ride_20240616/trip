@@ -1,0 +1,15 @@
+{
+  "day": 0,
+  "stravaId": 11663577134,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-06-16",
+  "activity": "ride",
+  "images": [],
+  "distance": 38025.4,
+  "elevation": 203,
+  "tripId": "ride_20240616",
+  "title": "Zytturm Triathlon bike",
+  "journeyId": "zytturm_triathlon_2024"
+}

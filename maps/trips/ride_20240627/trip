@@ -1,0 +1,14 @@
+{
+  "day": 0,
+  "stravaId": 11752780924,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-06-27",
+  "activity": "ride",
+  "images": [],
+  "distance": 22188.9,
+  "elevation": 175,
+  "tripId": "ride_20240627",
+  "title": "Ride to Labdoo"
+}

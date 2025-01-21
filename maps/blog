@@ -56,7 +56,9 @@
     "ride_20240427",
     "ride_20240510",
     "ride_20240518",
-    "ride_20240526"
+    "ride_20240526",
+    "ride_20240623",
+    "ride_20240627"
   ],
   "journeyIds": [
     "madeira2024",
@@ -72,7 +74,8 @@
     "gemmipass2022",
     "gotthard2022",
     "summer2022",
-    "cycling_dates"
+    "cycling_dates",
+    "zytturm_triathlon_2024"
   ],
   "latestIds": [
     "vienna_trip/day4",
