@@ -1,0 +1,14 @@
+{
+  "day": 0,
+  "stravaId": 12004617516,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-07-28",
+  "activity": "ride",
+  "images": [],
+  "distance": 90745.1,
+  "elevation": 1539.2,
+  "tripId": "ride_20240728",
+  "title": "Sattelegg with Balazs"
+}
