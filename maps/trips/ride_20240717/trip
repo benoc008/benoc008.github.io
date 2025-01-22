@@ -1,0 +1,14 @@
+{
+  "day": 0,
+  "stravaId": 11912828579,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-07-17",
+  "activity": "ride",
+  "images": [],
+  "distance": 71986,
+  "elevation": 836,
+  "tripId": "ride_20240717",
+  "title": "Bikefit commute"
+}

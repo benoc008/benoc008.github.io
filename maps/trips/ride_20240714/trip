@@ -1,0 +1,22 @@
+{
+  "day": 0,
+  "stravaId": 11887509430,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-07-14",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        47.10814722222222,
+        8.247663888888889
+      ],
+      "url": "img_0.jpg",
+      "description": "Honest smiles?"
+    }
+  ],
+  "distance": 154985,
+  "elevation": 1602,
+  "tripId": "ride_20240714"
+}

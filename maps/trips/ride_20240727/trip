@@ -1,0 +1,39 @@
+{
+  "day": 0,
+  "stravaId": 11992741264,
+  "training": false,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-07-27",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        46.98453888888889,
+        8.837516666666668
+      ],
+      "url": "img_0.jpg",
+      "description": "Racing with horses"
+    },
+    {
+      "gps": [
+        47.02575,
+        8.919297222222221
+      ],
+      "url": "img_1.jpg",
+      "description": "View"
+    },
+    {
+      "gps": [
+        46.976886111111114,
+        8.783975
+      ],
+      "url": "img_2.jpg",
+      "description": "It's gonna be tough!"
+    }
+  ],
+  "distance": 139326,
+  "elevation": 1942,
+  "tripId": "ride_20240727",
+  "title": "Pragelpass"
+}
