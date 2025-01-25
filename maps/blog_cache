@@ -2171,6 +2171,163 @@
       "elevation": 1539.2,
       "tripId": "ride_20240728",
       "title": "Sattelegg with Balazs"
+    },
+    {
+      "day": 0,
+      "stravaId": 12004617516,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-07-28",
+      "activity": "ride",
+      "images": [],
+      "distance": 90745.1,
+      "elevation": 1539.2,
+      "tripId": "ride_20240728",
+      "title": "Sattelegg with Balazs"
+    },
+    {
+      "day": 0,
+      "stravaId": 12054040325,
+      "training": false,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-08-03",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            46.745525,
+            8.486772222222221
+          ],
+          "url": "img_0.jpg",
+          "description": "Into the fog"
+        },
+        {
+          "gps": [
+            46.74636944444445,
+            8.464594444444444
+          ],
+          "url": "img_1.jpg",
+          "description": "Cold and foggy"
+        },
+        {
+          "gps": [
+            46.72916666666667,
+            8.446488888888888
+          ],
+          "url": "img_2.jpg",
+          "description": "Sustenpass"
+        },
+        {
+          "gps": [
+            46.72916666666667,
+            8.446472222222223
+          ],
+          "url": "img_3.jpg",
+          "description": "That descent looks scary"
+        },
+        {
+          "gps": [
+            46.60551111111111,
+            8.318061111111112
+          ],
+          "url": "img_4.jpg",
+          "description": "Views"
+        },
+        {
+          "gps": [
+            46.60495,
+            8.316761111111111
+          ],
+          "url": "img_5.jpg",
+          "description": "Views"
+        },
+        {
+          "gps": [
+            46.60328333333334,
+            8.316447222222223
+          ],
+          "url": "img_6.jpg",
+          "description": "Views"
+        },
+        {
+          "gps": [
+            46.69661388888888,
+            8.238647222222221
+          ],
+          "url": "img_7.jpg",
+          "description": "Views"
+        },
+        {
+          "gps": [
+            46.60986388888889,
+            8.308408333333334
+          ],
+          "url": "img_8.jpg",
+          "description": "3, 2, 1, Go!"
+        },
+        {
+          "gps": [
+            46.56196111111111,
+            8.336791666666667
+          ],
+          "url": "img_9.jpg",
+          "description": "Grimselpass"
+        },
+        {
+          "gps": [
+            46.491930555555555,
+            8.3506
+          ],
+          "url": "img_10.jpg",
+          "description": "View"
+        },
+        {
+          "gps": [
+            46.47408333333333,
+            8.375861111111112
+          ],
+          "url": "img_11.jpg",
+          "description": "View"
+        },
+        {
+          "gps": [
+            46.47896111111111,
+            8.38683611111111
+          ],
+          "url": "img_12.jpg",
+          "description": "Nufenenpass"
+        },
+        {
+          "gps": [
+            46.55885,
+            8.562180555555557
+          ],
+          "url": "img_13.jpg",
+          "description": "Gotthardpass"
+        },
+        {
+          "gps": [
+            46.572269444444444,
+            8.340272222222223
+          ],
+          "url": "img_14.jpg",
+          "description": "View to the hospice"
+        },
+        {
+          "gps": [
+            46.67658611111111,
+            8.254308333333332
+          ],
+          "url": "img_15.jpg",
+          "description": "View"
+        }
+      ],
+      "distance": 175760,
+      "elevation": 5428,
+      "tripId": "ride_20240803",
+      "title": "Small loop, big hills"
     }
   ],
   "journeys": [
