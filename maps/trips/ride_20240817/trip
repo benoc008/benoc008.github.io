@@ -1,0 +1,14 @@
+{
+  "day": 0,
+  "stravaId": 12169100663,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-08-17",
+  "activity": "ride",
+  "images": [],
+  "distance": 36359.2,
+  "elevation": 1007,
+  "tripId": "ride_20240817",
+  "title": "Mission failed"
+}

@@ -1,0 +1,14 @@
+{
+  "day": 0,
+  "stravaId": 12211349725,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-08-22",
+  "activity": "ride",
+  "images": [],
+  "distance": 88086.9,
+  "elevation": 812,
+  "tripId": "ride_20240822",
+  "title": "YTA Summer bonding ride"
+}

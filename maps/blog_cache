@@ -2328,6 +2328,81 @@
       "elevation": 5428,
       "tripId": "ride_20240803",
       "title": "Small loop, big hills"
+    },
+    {
+      "day": 0,
+      "stravaId": 12169100663,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-08-17",
+      "activity": "ride",
+      "images": [],
+      "distance": 36359.2,
+      "elevation": 1007,
+      "tripId": "ride_20240817",
+      "title": "Mission failed"
+    },
+    {
+      "day": 0,
+      "stravaId": 12211349725,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-08-22",
+      "activity": "ride",
+      "images": [],
+      "distance": 88086.9,
+      "elevation": 812,
+      "tripId": "ride_20240822",
+      "title": "YTA Summer bonding ride"
+    },
+    {
+      "day": 0,
+      "stravaId": 12229415183,
+      "training": false,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-08-24",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            46.57261944444445,
+            8.415055555555556
+          ],
+          "url": "img_1.jpg",
+          "description": "Furkapass"
+        },
+        {
+          "gps": [
+            46.577197222222225,
+            8.388072222222222
+          ],
+          "url": "img_2.jpg",
+          "description": "The famous hotel Belvedere"
+        },
+        {
+          "gps": [
+            46.595933333333335,
+            8.499294444444443
+          ],
+          "url": "img_3.jpg",
+          "description": "Views"
+        },
+        {
+          "gps": [
+            46.57708055555556,
+            8.387902777777777
+          ],
+          "url": "img_4.jpg",
+          "description": "Views"
+        }
+      ],
+      "distance": 85100,
+      "elevation": 2448,
+      "tripId": "ride_20240824",
+      "title": "(Half of) Marzia's tapering ride"
     }
   ],
   "journeys": [
