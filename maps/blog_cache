@@ -2403,6 +2403,69 @@
       "elevation": 2448,
       "tripId": "ride_20240824",
       "title": "(Half of) Marzia's tapering ride"
+    },
+    {
+      "day": 0,
+      "stravaId": 12291263244,
+      "training": false,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-08-31",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            46.18930833333333,
+            7.202452777777778
+          ],
+          "url": "img_0.jpg",
+          "description": "In the morning - still full of energy"
+        },
+        {
+          "gps": [
+            46.18914722222222,
+            7.2023222222222225
+          ],
+          "url": "img_1.jpg",
+          "description": "The Sun is up!"
+        },
+        {
+          "gps": [
+            46.07925277777778,
+            7.214938888888889
+          ],
+          "url": "img_2.jpg",
+          "description": "Minutes before the start"
+        },
+        {
+          "gps": [
+            46.230422222222224,
+            7.408052777777778
+          ],
+          "url": "img_3.jpg",
+          "description": "Views"
+        },
+        {
+          "gps": [
+            46.12171111111111,
+            7.232866666666667
+          ],
+          "url": "img_4.jpg",
+          "description": "Done and dusted"
+        },
+        {
+          "gps": [
+            46.14268611111111,
+            7.242391666666666
+          ],
+          "url": "img_5.jpg",
+          "description": "Views"
+        }
+      ],
+      "distance": 195569,
+      "elevation": 7086.1,
+      "tripId": "ride_20240831",
+      "title": "Tour des Stations"
     }
   ],
   "journeys": [
