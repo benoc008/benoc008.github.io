@@ -2466,6 +2466,113 @@
       "elevation": 7086.1,
       "tripId": "ride_20240831",
       "title": "Tour des Stations"
+    },
+    {
+      "day": 0,
+      "stravaId": 12416615939,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-09-15",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            47.030905555555556,
+            8.44078888888889
+          ],
+          "url": "img_0.jpg",
+          "description": "First snow in the background. It's September!!"
+        },
+        {
+          "gps": [
+            47.05545833333333,
+            8.609852777777778
+          ],
+          "url": "img_1.jpg",
+          "description": "Views"
+        },
+        {
+          "gps": [
+            46.99124166666667,
+            8.527225000000001
+          ],
+          "url": "img_2.jpg",
+          "description": "Snowy mountains, little espresso"
+        },
+        {
+          "gps": [
+            47.044977777777774,
+            8.427472222222221
+          ],
+          "url": "img_3.jpg",
+          "description": "Views"
+        }
+      ],
+      "distance": 197032,
+      "elevation": 2097,
+      "tripId": "ride_20240915",
+      "title": "Sunday Loops"
+    },
+    {
+      "day": 0,
+      "stravaId": 12483954707,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-09-23",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            47.57653888888889,
+            20.607980555555557
+          ],
+          "url": "img_0.jpg",
+          "description": "Lake view, endless flatness"
+        }
+      ],
+      "distance": 64912.7,
+      "elevation": 197,
+      "tripId": "ride_20240923",
+      "title": "Ride with Dad"
+    },
+    {
+      "day": 0,
+      "stravaId": 12578957434,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-10-05",
+      "activity": "ride",
+      "images": [],
+      "distance": 86272.9,
+      "elevation": 1675,
+      "tripId": "ride_20241005",
+      "title": "Wandering around"
+    },
+    {
+      "day": 0,
+      "stravaId": 12581656172,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-10-05",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            47.34389166666667,
+            8.773061111111112
+          ],
+          "url": "img_0.jpg",
+          "description": "Do or do not."
+        }
+      ],
+      "distance": 51490,
+      "elevation": 458,
+      "tripId": "ride_20241005",
+      "title": "Another Pumpkin ride"
     }
   ],
   "journeys": [

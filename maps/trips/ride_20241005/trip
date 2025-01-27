@@ -1,0 +1,23 @@
+{
+  "day": 0,
+  "stravaId": 12581656172,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-10-05",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        47.34389166666667,
+        8.773061111111112
+      ],
+      "url": "img_0.jpg",
+      "description": "Do or do not."
+    }
+  ],
+  "distance": 51490,
+  "elevation": 458,
+  "tripId": "ride_20241005",
+  "title": "Another Pumpkin ride"
+}

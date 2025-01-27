@@ -1,0 +1,23 @@
+{
+  "day": 0,
+  "stravaId": 12483954707,
+  "training": true,
+  "gpxUrl": "original.gpx",
+  "compressedGpxUrl": "compressed.gpx",
+  "date": "2024-09-23",
+  "activity": "ride",
+  "images": [
+    {
+      "gps": [
+        47.57653888888889,
+        20.607980555555557
+      ],
+      "url": "img_0.jpg",
+      "description": "Lake view, endless flatness"
+    }
+  ],
+  "distance": 64912.7,
+  "elevation": 197,
+  "tripId": "ride_20240923",
+  "title": "Ride with Dad"
+}
