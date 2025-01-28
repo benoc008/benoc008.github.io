@@ -2573,6 +2573,29 @@
       "elevation": 458,
       "tripId": "ride_20241005",
       "title": "Another Pumpkin ride"
+    },
+    {
+      "day": 0,
+      "stravaId": 12804725742,
+      "training": true,
+      "gpxUrl": "original.gpx",
+      "compressedGpxUrl": "compressed.gpx",
+      "date": "2024-11-02",
+      "activity": "ride",
+      "images": [
+        {
+          "gps": [
+            47.11580555555555,
+            8.40625
+          ],
+          "url": "img_0.jpg",
+          "description": "Great views, lots of fun! (really)"
+        }
+      ],
+      "distance": 64080.1,
+      "elevation": 727,
+      "tripId": "ride_20241102",
+      "title": "Autumn vibes"
     }
   ],
   "journeys": [
