@@ -39,7 +39,7 @@ jobs:
 
       - name: Commit and Push changes
         # This step only runs if the Python script indicates a change was made
-        if: steps.update_script.outputs.json_updated == 'true'
+        if: ${{ steps.update_script.outputs.json_updated == 'true' }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
