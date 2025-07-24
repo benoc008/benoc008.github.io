@@ -1,0 +1,48 @@
+name: Update photos.json on Image Push
+
+on:
+  push:
+    branches:
+      - main # Or your default branch, e.g., 'master'
+    paths:
+      - 'live/photos/**' # Trigger when any file in live/photos changes
+      - 'live/photos.json'      # Also trigger if photos.json itself changes (e.g., manually edited)
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # This token allows the workflow to push changes back to the repository
+          # It's automatically provided by GitHub Actions
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use the latest Python 3.x
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y libimage-exiftool-perl # Install exiftool
+          pip install Pillow # Install Pillow for image processing if needed (though exiftool is primary)
+
+      - name: Run script to update photos.json
+        id: update_script
+        run: python .github/workflows/update_photos_script.py
+        env:
+          PHOTOS_DIR: live/photos
+          JSON_FILE: live/photos.json
+
+      - name: Commit and Push changes
+        # This step only runs if the Python script indicates a change was made
+        if: steps.update_script.outputs.json_updated == 'true'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add ${{ env.JSON_FILE }}
+          git commit -m "feat(photos): Update photos.json with new images"
+          git push
