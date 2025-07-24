@@ -18,13 +18,16 @@ def parse_gps_coord(coord_str, ref_str=None):
 
     try:
         # Extract the numeric part by splitting on space if a ref_str is present in the string
+        # Exiftool with -c often appends the ref, so we split first.
         if ' ' in coord_str:
-            numeric_part, direction = coord_str.split(' ', 1)
+            numeric_part, direction_from_str = coord_str.split(' ', 1)
+            # Prioritize direction from string, fall back to ref_str
+            direction = direction_from_str.strip().upper()
         else:
             numeric_part = coord_str
-            direction = ref_str # Use explicit ref_str if not in coord_str itself
+            direction = ref_str.strip().upper() if ref_str else None # Use explicit ref_str if not in coord_str itself
 
-        value = float(numeric_part)
+        value = float(numeric_part) # This should now get the full precision number
 
         # Apply sign based on direction
         if direction:
@@ -46,6 +49,7 @@ def get_gps_from_exif(image_path):
         command = [
             'exiftool',
             '-json',
+            '-c', '%.7f',
             '-GPSLatitude',
             '-GPSLatitudeRef',
             '-GPSLongitude',
