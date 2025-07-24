@@ -63,7 +63,7 @@ def main():
         existing_data = []
 
     # 2. Get current images in directory
-    current_image_files = {f.name for f in photos_dir.iterdir() if f.is_file() and f.suffix.lower() in ['.jpg', '.jpeg', '.png']}
+    current_image_files = {f.name for f in photos_dir.iterdir() if f.is_file() and f.suffix.lower() in ['.jpg', '.jpeg', '.png', '.heic']}
 
     # 3. Find new images
     existing_image_names = set(existing_photos_map.keys())
