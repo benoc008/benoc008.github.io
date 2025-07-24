@@ -129,10 +129,23 @@ def main():
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, indent=2, ensure_ascii=False)
         print(f"{JSON_FILE} updated successfully.")
-        print("json_updated=true")
+        # Correct way to set a step output for GitHub Actions
+        # Get the path to the GITHUB_OUTPUT file from the environment
+        github_output_file = os.getenv('GITHUB_OUTPUT')
+        if github_output_file:
+            with open(github_output_file, 'a') as f:
+                f.write(f"json_updated=true\n")
+        else:
+            # Fallback for local testing or older runners if GITHUB_OUTPUT isn't set
+            print("::set-output name=json_updated::true")
     else:
         print("No new photos found or photos.json is already up to date.")
-        print("json_updated=false")
+        github_output_file = os.getenv('GITHUB_OUTPUT')
+        if github_output_file:
+            with open(github_output_file, 'a') as f:
+                f.write(f"json_updated=false\n")
+        else:
+            print("::set-output name=json_updated::false")
 
 if __name__ == "__main__":
     main()

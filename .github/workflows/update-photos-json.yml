@@ -37,6 +37,9 @@ jobs:
           PHOTOS_DIR: live/photos
           JSON_FILE: live/photos.json
 
+      - name: Debug Check json_updated output
+        run: echo "json_updated output is '${{ steps.update_script.outputs.json_updated }}'"
+
       - name: Commit and Push changes
         # This step only runs if the Python script indicates a change was made
         if: ${{ steps.update_script.outputs.json_updated == 'true' }}
