@@ -8,23 +8,48 @@ PHOTOS_DIR = os.getenv('PHOTOS_DIR', 'live/photos')
 JSON_FILE = os.getenv('JSON_FILE', 'live/photos.json')
 # --- End Configuration ---
 
+def parse_gps_coord(coord_str, ref_str=None):
+    """
+    Parses a GPS coordinate string (e.g., '47.378411 N') into a float.
+    Handles cardinal directions.
+    """
+    if coord_str is None:
+        return None
+
+    try:
+        # Extract the numeric part by splitting on space if a ref_str is present in the string
+        if ' ' in coord_str:
+            numeric_part, direction = coord_str.split(' ', 1)
+        else:
+            numeric_part = coord_str
+            direction = ref_str # Use explicit ref_str if not in coord_str itself
+
+        value = float(numeric_part)
+
+        # Apply sign based on direction
+        if direction:
+            direction = direction.strip().upper()
+            if direction in ['S', 'W']:
+                value = -value
+        return value
+    except ValueError:
+        print(f"Warning: Could not parse GPS coordinate string: '{coord_str}'")
+        return None
+
 def get_gps_from_exif(image_path):
     """
     Extracts GPS coordinates (latitude, longitude) from an image using exiftool.
     Returns [latitude, longitude] or None if not found/error.
     """
     try:
-        # Use exiftool to extract GPS coordinates
-        # -json: output in JSON format
-        # -c "%+.6f": format coordinates with 6 decimal places and sign
-        # -GPSLatitudeRef -GPSLongitudeRef: include reference (N/S, E/W)
-        # -GPSLatitude -GPSLongitude: the actual coordinate tags
+        # Request both the raw GPS values and their references
         command = [
             'exiftool',
             '-json',
-            '-c', '%.6f', # Format coordinates directly
             '-GPSLatitude',
+            '-GPSLatitudeRef',
             '-GPSLongitude',
+            '-GPSLongitudeRef',
             str(image_path)
         ]
         result = subprocess.run(command, capture_output=True, text=True, check=True)
@@ -32,17 +57,25 @@ def get_gps_from_exif(image_path):
 
         if exif_data and exif_data[0]:
             data = exif_data[0]
-            lat = data.get('GPSLatitude')
-            lon = data.get('GPSLongitude')
 
-            # exiftool provides lat/lon as float, no need for ref
-            if lat is not None and lon is not None:
-                return [float(lat), float(lon)]
+            # Get the raw values and references
+            lat_str = data.get('GPSLatitude')
+            lat_ref = data.get('GPSLatitudeRef')
+            lon_str = data.get('GPSLongitude')
+            lon_ref = data.get('GPSLongitudeRef')
+
+            # Parse them using the new helper function
+            latitude = parse_gps_coord(lat_str, lat_ref)
+            longitude = parse_gps_coord(lon_str, lon_ref)
+
+            if latitude is not None and longitude is not None:
+                return [latitude, longitude]
         return None
     except Exception as e:
         print(f"Error extracting EXIF for {image_path}: {e}")
         return None
 
+# --- Rest of your main() function remains the same ---
 def main():
     json_path = Path(JSON_FILE)
     photos_dir = Path(PHOTOS_DIR)
@@ -84,25 +117,22 @@ def main():
             print(f"Skipping {image_name}: No GPS data found or error extracting.")
 
     # 5. Handle removed images (optional, but good for sync)
-    # This block identifies images that are in JSON but no longer in the directory
     removed_image_names = existing_image_names - current_image_files
     if removed_image_names:
         print(f"Found removed images: {removed_image_names}. Removing from JSON.")
         existing_data = [photo for photo in existing_data if photo['name'] not in removed_image_names]
         photos_updated = True
 
-
     # 6. Write updated JSON back
     if photos_updated:
-        # Sort the entire list by name for consistency
         existing_data.sort(key=lambda x: x['name'])
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, indent=2, ensure_ascii=False)
         print(f"{JSON_FILE} updated successfully.")
-        print("json_updated=true") # Output for GitHub Actions
+        print("json_updated=true")
     else:
         print("No new photos found or photos.json is already up to date.")
-        print("json_updated=false") # Output for GitHub Actions
+        print("json_updated=false")
 
 if __name__ == "__main__":
     main()
