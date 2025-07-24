@@ -3,7 +3,7 @@ name: Update photos.json on Image Push
 on:
   push:
     branches:
-      - main # Or your default branch, e.g., 'master'
+      - master # Or your default branch, e.g., 'master'
     paths:
       - 'live/photos/**' # Trigger when any file in live/photos changes
       - 'live/photos.json'      # Also trigger if photos.json itself changes (e.g., manually edited)
